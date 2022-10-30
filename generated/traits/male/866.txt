@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 866

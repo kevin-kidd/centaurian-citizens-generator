@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 371

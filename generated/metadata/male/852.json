@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Village"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fur"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Tricolor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Alchemy"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Bristled"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #852",
+    "id": "852",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #852"
+}

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Actuated
+Eyes: Black
+ID: 1195

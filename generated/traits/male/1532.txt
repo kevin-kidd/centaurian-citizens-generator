@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1532

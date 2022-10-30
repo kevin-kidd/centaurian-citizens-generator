@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 1371

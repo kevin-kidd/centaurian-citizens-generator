@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Electric
+ID: 1057

@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fur"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Galactic Brick"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        }
+    ],
+    "description": "Alpha Centaurian #527",
+    "id": "527",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #527"
+}

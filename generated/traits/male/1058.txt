@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1058

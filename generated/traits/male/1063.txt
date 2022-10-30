@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Drapor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 1063

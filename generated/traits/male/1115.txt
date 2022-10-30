@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 1115

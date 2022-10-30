@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Emerald
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 1043

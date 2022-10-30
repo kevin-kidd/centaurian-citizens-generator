@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Insectoid
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 953

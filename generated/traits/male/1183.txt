@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Blue
+ID: 1183

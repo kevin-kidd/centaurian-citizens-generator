@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1352

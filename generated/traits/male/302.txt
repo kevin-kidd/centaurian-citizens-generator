@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Emerald
+ID: 302

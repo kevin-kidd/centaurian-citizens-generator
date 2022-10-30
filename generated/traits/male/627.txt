@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Diamond
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Blue
+ID: 627

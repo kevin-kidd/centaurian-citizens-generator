@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 1521

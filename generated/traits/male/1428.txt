@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Stargaze
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1428

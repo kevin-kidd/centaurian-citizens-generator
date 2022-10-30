@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1252

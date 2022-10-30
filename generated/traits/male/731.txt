@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 731

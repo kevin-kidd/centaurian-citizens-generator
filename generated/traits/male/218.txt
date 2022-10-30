@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Gold Tubed
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 218

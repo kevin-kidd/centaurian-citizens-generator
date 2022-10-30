@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Electric
+ID: 821

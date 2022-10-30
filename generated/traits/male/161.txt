@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Amethyst
+ID: 161

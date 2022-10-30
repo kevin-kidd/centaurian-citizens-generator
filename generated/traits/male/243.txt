@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 243

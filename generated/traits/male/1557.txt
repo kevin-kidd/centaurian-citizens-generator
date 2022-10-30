@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1557

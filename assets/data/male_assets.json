@@ -1,0 +1,476 @@
+{
+  "categories": [
+    "Background", "Skin", "Suit", "Breastcomputer", "Helmet",
+    "Face Mask", "Gas Tank", "Handheld Item", "Horns", "Eyes"
+  ],
+  "Background": [
+    {
+      "URI": "Background/Centauri City.png",
+      "value": "Centauri City",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Background/Centauri Forest.png",
+      "value": "Centauri Forest",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Background/Centauri Pod.png",
+      "value": "Centauri Pod",
+      "chance_percent": 1
+    },
+    {
+      "URI": "Background/Landing Ships.png",
+      "value": "Landing Ships",
+      "chance_percent": 12
+    },
+    {
+      "URI": "Background/Centauri Village.png",
+      "value": "Centauri Village",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Background/Centauri System.png",
+      "value": "Centauri System",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Background/Solar System.png",
+      "value": "Solar System",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Background/Galaxies.png",
+      "value": "Galaxies",
+      "chance_percent": 10
+    },
+    {
+      "URI": "Background/Centauri Islands.png",
+      "value": "Centauri Islands",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Background/Centauri Portal.png",
+      "value": "Centauri Portal",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Background/Stars.png",
+      "value": "Stars",
+      "chance_percent": 20
+    },
+    {
+      "URI": "Background/Stargaze Ships.png",
+      "value": "Stargaze",
+      "chance_percent": 2
+    }
+  ],
+  "Skin": [
+    {
+      "URI": "Skin Colors/Male/Male_Blue_Gray.png",
+      "value": "Blue Gray",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Blue_Green.png",
+      "value": "Blue Green",
+      "chance_percent": 14
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Bronze.png",
+      "value": "Bronze",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Emerald.png",
+      "value": "Emerald",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Gray.png",
+      "value": "Gray",
+      "chance_percent": 12
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Green_Gold.png",
+      "value": "Green Gold",
+      "chance_percent": 7
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Purple_Blue.png",
+      "value": "Purple Blue",
+      "chance_percent": 18
+    },
+    {
+      "URI": "Skin Colors/Male/Male_Rose_Purple.png",
+      "value": "Rose Purple",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Ethereal.png",
+      "value": "Ethereal",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Fur.png",
+      "value": "Fur",
+      "chance_percent": 7
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Lava.png",
+      "value": "Lava",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Diamond.png",
+      "value": "Diamond",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Plasmic.png",
+      "value": "Plasmic",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Scales.png",
+      "value": "Scales",
+      "chance_percent": 7
+    },
+    {
+      "URI": "Skin Materials/Male/Male_Wrinkled.png",
+      "value": "Wrinkled",
+      "chance_percent": 7
+    }
+  ],
+  "Suit": [
+    {
+      "URI": "Shirts and Suits/Male/Male_Obsidior.png",
+      "value": "Obsidior",
+      "chance_percent": 20
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Tricolor.png",
+      "value": "Tricolor",
+      "chance_percent": 10
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Quantic.png",
+      "value": "Quantic",
+      "chance_percent": 10
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Azulic.png",
+      "value": "Azulic",
+      "chance_percent": 18
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Capacic.png",
+      "value": "Capacic",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Emeraldor.png",
+      "value": "Emeraldor",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Drapor.png",
+      "value": "Drapor",
+      "chance_percent": 2
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 18
+    },
+    {
+      "URI": "Shirts and Suits/Male/Male_Stargaze.png",
+      "value": "Stargaze",
+      "chance_percent": 2
+    }
+  ],
+  "Breastcomputer": [
+    {
+      "URI": "Breastcomputer/Male/Male_Golden_Quant.png",
+      "value": "Golden Quant",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Emerald_Surge.png",
+      "value": "Emerald Surge",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Opal_Process.png",
+      "value": "Opal Process",
+      "chance_percent": 14
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Legion_Calc.png",
+      "value": "Legion Calc",
+      "chance_percent": 11
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Gem_Quant.png",
+      "value": "Gem Quant",
+      "chance_percent": 12
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Amethyst_Calc.png",
+      "value": "Amethyst Calc",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Stargaze.png",
+      "value": "Stargaze",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Breastcomputer/Male/Male_Quantum_Orb.png",
+      "value": "Quantum Orb",
+      "chance_percent": 1
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 25
+    }
+  ],
+  "Helmet": [
+    {
+      "URI": "Helmet/Male/Male_Black_Maven.png",
+      "value": "Black Maven",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Helmet/Male/Male_Salmonic.png",
+      "value": "Salmonic",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Helmet/Male/Male_Galactic_Brick.png",
+      "value": "Galactic Brick",
+      "chance_percent": 13
+    },
+    {
+      "URI": "Helmet/Male/Male_Golden_Protector.png",
+      "value": "Golden Protector",
+      "chance_percent": 11
+    },
+    {
+      "URI": "Helmet/Male/Male_Wavenic.png",
+      "value": "Wavenic",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Helmet/Male/Male_Emeraldic.png",
+      "value": "Emeraldic",
+      "chance_percent": 11
+    },
+    {
+      "URI": "Helmet/Male/Male_Stargaze.png",
+      "value": "Stargaze",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Helmet/Male/Male_Cerebron.png",
+      "value": "Cerebron",
+      "chance_percent": 5
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 40
+    }
+  ],
+  "Face Mask": [
+    {
+      "URI": "Face Mask/Male/Male_Gold_Tubed.png",
+      "value": "Gold Tubed",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Face Mask/Male/Male_Vapex.png",
+      "value": "Vapex",
+      "chance_percent": 14
+    },
+    {
+      "URI": "Face Mask/Male/Male_Surge.png",
+      "value": "Surge",
+      "chance_percent": 10
+    },
+    {
+      "URI": "Face Mask/Male/Male_Plasma.png",
+      "value": "Plasma",
+      "chance_percent": 18
+    },
+    {
+      "URI": "Face Mask/Male/Male_Sapphiric.png",
+      "value": "Sapphiric",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Face Mask/Male/Male_Insectoid.png",
+      "value": "Insectoid",
+      "chance_percent": 1
+    },
+    {
+      "URI": "Face Mask/Male/Male_Amethystic.png",
+      "value": "Amethystic",
+      "chance_percent": 10
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 40
+    }
+  ],
+  "Gas Tank": [
+    {
+      "URI": "Gas Tank/Male/Male_Alchemy.png",
+      "value": "Alchemy",
+      "chance_percent": 10
+    },
+    {
+      "URI": "Gas Tank/Male/Male_Plasmic.png",
+      "value": "Plasmic",
+      "chance_percent": 4
+    },
+    {
+      "URI": "Gas Tank/Male/Male_Rotonic.png",
+      "value": "Rotonic",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Gas Tank/Male/Male_Blaze.png",
+      "value": "Blaze",
+      "chance_percent": 6
+    },
+    {
+      "URI": "Gas Tank/Male/Male_Biotic.png",
+      "value": "Biotic",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Gas Tank/Male/Male_Quantic.png",
+      "value": "Quantic",
+      "chance_percent": 20
+    },
+    {
+      "URI": "Gas Tank/Male/Male_Surge.png",
+      "value": "Surge",
+      "chance_percent": 20
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 30
+    }
+  ],
+  "Handheld Item": [
+    {
+      "URI": "Handheld Item/Male/Male_Rotonic_Capacitor.png",
+      "value": "Rotonic Capacitor",
+      "chance_percent": 13
+    },
+    {
+      "URI": "Handheld Item/Male/Male_Quantor.png",
+      "value": "Quantor",
+      "chance_percent": 10
+    },
+    {
+      "URI": "Handheld Item/Male/Male_Plasmor.png",
+      "value": "Plasmor",
+      "chance_percent": 2
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 75
+    }
+  ],
+  "Horns": [
+    {
+      "URI": "Horns/Male/Male_Golden.png",
+      "value": "Golden",
+      "chance_percent": 20
+    },
+    {
+      "URI": "Horns/Male/Male_Sapphire.png",
+      "value": "Sapphire",
+      "chance_percent": 13
+    },
+    {
+      "URI": "Horns/Male/Male_Actuated.png",
+      "value": "Actuated",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Horns/Male/Male_Bristled.png",
+      "value": "Bristled",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Horns/Male/Male_Bullic.png",
+      "value": "Bullic",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Horns/Male/Male_Quantic.png",
+      "value": "Quantic",
+      "chance_percent": 2
+    },
+    {
+      "URI": "Horns/Male/Male_Plasmic.png",
+      "value": "Plasmic",
+      "chance_percent": 1
+    },
+    {
+      "URI": "",
+      "value": "None",
+      "chance_percent": 40
+    }
+  ],
+  "Eyes": [
+    {
+      "URI": "Eyes/Male/Male_Blue.png",
+      "value": "Blue",
+      "chance_percent": 24
+    },
+    {
+      "URI": "Eyes/Male/Male_Pink.png",
+      "value": "Pink",
+      "chance_percent": 8
+    },
+    {
+      "URI": "Eyes/Male/Male_Emerald.png",
+      "value": "Emerald",
+      "chance_percent": 12
+    },
+    {
+      "URI": "Eyes/Male/Male_Amethyst.png",
+      "value": "Amethyst",
+      "chance_percent": 5
+    },
+    {
+      "URI": "Eyes/Male/Male_Liquid.png",
+      "value": "Liquid",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Eyes/Male/Male_Electric.png",
+      "value": "Electric",
+      "chance_percent": 15
+    },
+    {
+      "URI": "Eyes/Male/Male_Black.png",
+      "value": "Black",
+      "chance_percent": 20
+    },
+    {
+      "URI": "Eyes/Male/Male_Plasma.png",
+      "value": "Plasma",
+      "chance_percent": 1
+    }
+  ]
+}

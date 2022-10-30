@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: Plasmic
+Eyes: Black
+ID: 1114

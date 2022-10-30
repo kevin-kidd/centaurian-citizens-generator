@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Electric
+ID: 537

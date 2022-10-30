@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Landing Ships"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Scales"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Emeraldic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Quantor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        }
+    ],
+    "description": "Alpha Centaurian #511",
+    "id": "511",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #511"
+}

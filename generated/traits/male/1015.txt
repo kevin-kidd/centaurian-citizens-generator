@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 1015

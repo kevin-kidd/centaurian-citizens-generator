@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1393

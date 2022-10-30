@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 5

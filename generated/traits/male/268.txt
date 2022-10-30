@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Black
+ID: 268

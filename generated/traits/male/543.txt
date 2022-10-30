@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Rotonic
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Liquid
+ID: 543

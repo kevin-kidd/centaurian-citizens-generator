@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Green Gold
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 335

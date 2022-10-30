@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Plasmic
+Eyes: Blue
+ID: 425

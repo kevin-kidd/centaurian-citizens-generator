@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 1080

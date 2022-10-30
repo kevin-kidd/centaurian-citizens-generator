@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Pink
+ID: 115

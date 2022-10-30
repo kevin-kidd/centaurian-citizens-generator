@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Blue
+ID: 125

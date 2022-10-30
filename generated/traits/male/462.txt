@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 462

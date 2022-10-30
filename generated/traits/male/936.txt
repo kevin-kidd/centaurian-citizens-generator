@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 936

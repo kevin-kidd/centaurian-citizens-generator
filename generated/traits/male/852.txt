@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Bristled
+Eyes: Blue
+ID: 852

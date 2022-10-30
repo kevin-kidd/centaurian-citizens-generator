@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Islands"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Emerald"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Obsidior"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Stargaze"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Wavenic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Quantor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #823",
+    "id": "823",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #823"
+}

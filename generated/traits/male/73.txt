@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 73

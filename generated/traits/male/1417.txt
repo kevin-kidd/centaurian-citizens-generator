@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 1417

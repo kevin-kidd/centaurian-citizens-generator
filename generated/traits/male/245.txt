@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Ethereal
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 245

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Emerald
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 237

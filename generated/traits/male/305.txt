@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 305

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 959

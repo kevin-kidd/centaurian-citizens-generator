@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Galaxies"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Scales"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Opal Process"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Wavenic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "None"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Actuated"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Liquid"
+        }
+    ],
+    "description": "Alpha Centaurian #1404",
+    "id": "1404",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1404"
+}

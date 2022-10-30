@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1274

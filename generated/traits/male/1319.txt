@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Electric
+ID: 1319

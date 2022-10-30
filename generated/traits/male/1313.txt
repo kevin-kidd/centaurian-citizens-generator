@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Rose Purple
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Stargaze
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Actuated
+Eyes: Electric
+ID: 1313

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: None
+Eyes: Emerald
+ID: 556

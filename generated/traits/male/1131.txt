@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1131

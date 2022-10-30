@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Drapor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Pink
+ID: 1117

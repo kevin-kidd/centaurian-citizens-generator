@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue Green"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Capacic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Stargaze"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Liquid"
+        }
+    ],
+    "description": "Alpha Centaurian #1004",
+    "id": "1004",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1004"
+}

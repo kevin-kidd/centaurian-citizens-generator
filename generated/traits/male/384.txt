@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 384

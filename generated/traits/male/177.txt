@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 177

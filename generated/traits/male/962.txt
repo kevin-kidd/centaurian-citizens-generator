@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 962

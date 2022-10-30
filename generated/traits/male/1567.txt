@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Blue
+ID: 1567

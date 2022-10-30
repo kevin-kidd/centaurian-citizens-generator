@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 1022

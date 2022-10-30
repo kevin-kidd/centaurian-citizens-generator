@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1201

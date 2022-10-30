@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Emerald
+ID: 1242

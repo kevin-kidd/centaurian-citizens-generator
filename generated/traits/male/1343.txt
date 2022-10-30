@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1343

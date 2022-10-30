@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Drapor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1411

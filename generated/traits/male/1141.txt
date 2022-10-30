@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Blue
+ID: 1141

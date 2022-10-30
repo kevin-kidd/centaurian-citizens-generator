@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Emerald
+ID: 1538

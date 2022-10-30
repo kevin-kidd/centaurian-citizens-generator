@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 222

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 641

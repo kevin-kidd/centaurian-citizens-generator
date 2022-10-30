@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 165

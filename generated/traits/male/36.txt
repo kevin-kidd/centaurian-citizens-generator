@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 36

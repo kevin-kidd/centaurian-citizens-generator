@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 491

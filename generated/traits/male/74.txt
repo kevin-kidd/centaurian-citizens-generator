@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Gold Tubed
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 74

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1229

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: None
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 966

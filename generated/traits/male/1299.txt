@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 1299

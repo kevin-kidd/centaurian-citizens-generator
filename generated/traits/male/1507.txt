@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1507

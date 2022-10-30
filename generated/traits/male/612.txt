@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: None
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: None
+Eyes: Electric
+ID: 612

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Surge
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 118

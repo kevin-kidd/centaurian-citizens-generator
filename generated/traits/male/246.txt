@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Lava
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 246

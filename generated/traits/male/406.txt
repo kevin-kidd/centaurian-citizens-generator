@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Emerald
+ID: 406

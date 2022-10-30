@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Blue
+ID: 723

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 477

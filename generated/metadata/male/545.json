@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solar System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fur"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Tricolor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Emerald Surge"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden Protector"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Vapex"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Quantor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Bullic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Liquid"
+        }
+    ],
+    "description": "Alpha Centaurian #545",
+    "id": "545",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #545"
+}

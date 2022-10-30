@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Emerald
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1394

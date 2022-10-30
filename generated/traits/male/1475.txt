@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1475

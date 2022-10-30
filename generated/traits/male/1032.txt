@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Diamond
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1032

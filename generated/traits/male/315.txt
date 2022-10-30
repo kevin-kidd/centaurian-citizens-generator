@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Stargaze
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Electric
+ID: 315

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Stargaze
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 888

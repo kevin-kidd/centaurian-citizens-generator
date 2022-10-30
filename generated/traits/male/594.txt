@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 594

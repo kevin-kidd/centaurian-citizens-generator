@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Pink
+ID: 756

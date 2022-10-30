@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 669

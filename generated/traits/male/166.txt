@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 166

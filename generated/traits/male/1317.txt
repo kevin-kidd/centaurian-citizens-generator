@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Quantum Orb
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1317

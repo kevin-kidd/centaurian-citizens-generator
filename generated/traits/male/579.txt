@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: Plasmor
+Horns: None
+Eyes: Black
+ID: 579

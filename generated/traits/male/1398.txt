@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Electric
+ID: 1398

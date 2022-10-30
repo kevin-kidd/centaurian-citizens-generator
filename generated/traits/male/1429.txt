@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1429

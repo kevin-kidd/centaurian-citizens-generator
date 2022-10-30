@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1550

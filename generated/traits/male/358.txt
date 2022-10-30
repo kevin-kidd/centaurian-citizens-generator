@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 358

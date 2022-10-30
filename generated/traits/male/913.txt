@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Quantum Orb
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 913

@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fur"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Emerald Surge"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Emeraldic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Quantor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #947",
+    "id": "947",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #947"
+}

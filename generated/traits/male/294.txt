@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 294

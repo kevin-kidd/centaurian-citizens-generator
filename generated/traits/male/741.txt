@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 741

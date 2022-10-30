@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 291

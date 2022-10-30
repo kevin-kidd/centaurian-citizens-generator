@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 300

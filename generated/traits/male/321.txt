@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Green Gold
+Suit: Drapor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 321

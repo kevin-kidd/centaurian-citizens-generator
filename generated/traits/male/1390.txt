@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Scales
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Plasmic
+Eyes: Liquid
+ID: 1390

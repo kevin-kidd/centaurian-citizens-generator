@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 198

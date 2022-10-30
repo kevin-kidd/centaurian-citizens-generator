@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Shirt: Capacic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Liquid
+ID: 1569

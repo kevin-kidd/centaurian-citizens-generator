@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Sapphiric
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 434

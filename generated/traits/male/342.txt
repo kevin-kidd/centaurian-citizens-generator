@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Black Maven
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 342

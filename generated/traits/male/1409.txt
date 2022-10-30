@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1409

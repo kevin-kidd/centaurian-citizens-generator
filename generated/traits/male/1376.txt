@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Emerald
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Black Maven
+Face Mask: Gold Tubed
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1376

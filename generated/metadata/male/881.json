@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solar System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Plasmic"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Obsidior"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Stargaze"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Sapphiric"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Quantor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric"
+        }
+    ],
+    "description": "Alpha Centaurian #881",
+    "id": "881",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #881"
+}

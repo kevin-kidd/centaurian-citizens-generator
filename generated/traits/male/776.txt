@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 776

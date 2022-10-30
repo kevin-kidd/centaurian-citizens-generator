@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 957

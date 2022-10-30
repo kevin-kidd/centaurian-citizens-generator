@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Diamond
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Sapphiric
+Gas Tank: Quantic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1055

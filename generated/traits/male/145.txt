@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Fur
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 145

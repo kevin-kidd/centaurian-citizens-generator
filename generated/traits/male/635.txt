@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 635

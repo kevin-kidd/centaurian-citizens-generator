@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: Quantic
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1483

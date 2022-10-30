@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 109

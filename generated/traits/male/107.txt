@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Liquid
+ID: 107

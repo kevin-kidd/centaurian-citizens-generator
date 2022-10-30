@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Insectoid
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1406

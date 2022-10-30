@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 190

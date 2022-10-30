@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Capacic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 746

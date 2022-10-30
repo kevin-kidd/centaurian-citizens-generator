@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1268

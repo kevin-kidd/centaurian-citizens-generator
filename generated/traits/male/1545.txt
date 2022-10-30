@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 1545

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Gold Tubed
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1039

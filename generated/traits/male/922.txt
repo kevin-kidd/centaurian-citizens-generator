@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Electric
+ID: 922

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 797

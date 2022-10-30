@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1214

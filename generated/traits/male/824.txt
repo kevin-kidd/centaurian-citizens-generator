@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 824

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 87

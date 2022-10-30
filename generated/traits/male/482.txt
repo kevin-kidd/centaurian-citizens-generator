@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Plasma
+ID: 482

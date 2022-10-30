@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 511

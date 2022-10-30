@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Emerald
+ID: 826

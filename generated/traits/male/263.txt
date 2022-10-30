@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Lava
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 263

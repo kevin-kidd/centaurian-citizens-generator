@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 679

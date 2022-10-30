@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Galaxies"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Purple Blue"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Obsidior"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Vapex"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric"
+        }
+    ],
+    "description": "Alpha Centaurian #1177",
+    "id": "1177",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1177"
+}

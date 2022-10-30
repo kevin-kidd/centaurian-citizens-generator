@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Black
+ID: 216

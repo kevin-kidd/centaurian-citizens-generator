@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1316

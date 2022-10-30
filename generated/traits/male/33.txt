@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 33

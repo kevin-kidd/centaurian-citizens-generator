@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Diamond
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Pink
+ID: 1069

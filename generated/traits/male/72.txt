@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Plasmic
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 72

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1169

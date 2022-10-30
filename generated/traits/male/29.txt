@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 29

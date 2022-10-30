@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 721

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 417

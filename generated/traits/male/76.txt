@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Gold Tubed
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 76

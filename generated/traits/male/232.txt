@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Emerald
+ID: 232

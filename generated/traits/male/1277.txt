@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Azulic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Insectoid
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 1277

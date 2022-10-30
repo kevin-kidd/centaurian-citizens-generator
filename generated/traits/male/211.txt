@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 211

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Emerald
+ID: 590

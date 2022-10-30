@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Azulic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1360

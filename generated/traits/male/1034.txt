@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Pink
+ID: 1034

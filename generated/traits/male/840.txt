@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Drapor
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 840

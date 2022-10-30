@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 1463

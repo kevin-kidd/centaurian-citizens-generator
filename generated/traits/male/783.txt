@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 783

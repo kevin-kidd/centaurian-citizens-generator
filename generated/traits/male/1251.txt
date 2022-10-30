@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1251

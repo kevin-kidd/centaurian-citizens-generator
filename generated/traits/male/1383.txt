@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Emerald
+ID: 1383

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 333

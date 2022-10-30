@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 170

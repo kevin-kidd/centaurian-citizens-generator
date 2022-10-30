@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 919

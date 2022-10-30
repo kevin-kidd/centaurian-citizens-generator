@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Liquid
+ID: 545

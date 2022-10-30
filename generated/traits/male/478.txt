@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 478

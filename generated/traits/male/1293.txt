@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Electric
+ID: 1293

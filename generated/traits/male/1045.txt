@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1045

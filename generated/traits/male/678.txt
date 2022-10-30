@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 678

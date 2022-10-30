@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Azulic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1101

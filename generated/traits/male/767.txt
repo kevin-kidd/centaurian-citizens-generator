@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 767

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Pink
+ID: 116

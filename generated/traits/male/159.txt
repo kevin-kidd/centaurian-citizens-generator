@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Quantic
+Eyes: Blue
+ID: 159

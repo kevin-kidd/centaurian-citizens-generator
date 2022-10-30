@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Emerald
+ID: 908

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 939

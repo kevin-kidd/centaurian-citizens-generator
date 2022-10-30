@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Galaxies"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Purple Blue"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Obsidior"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Golden Quant"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Emeraldic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Gold Tubed"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Bullic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Liquid"
+        }
+    ],
+    "description": "Alpha Centaurian #907",
+    "id": "907",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #907"
+}

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Emerald
+Suit: Obsidior
+Breastcomputer: Stargaze
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 823

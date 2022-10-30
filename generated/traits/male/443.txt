@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Quantic
+Eyes: Amethyst
+ID: 443

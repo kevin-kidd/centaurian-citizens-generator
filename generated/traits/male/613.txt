@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Stargaze
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 613

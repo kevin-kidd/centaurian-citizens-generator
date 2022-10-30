@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Blue
+ID: 1091

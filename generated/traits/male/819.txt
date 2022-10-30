@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 819

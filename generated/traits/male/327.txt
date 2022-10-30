@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 327

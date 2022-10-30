@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 293

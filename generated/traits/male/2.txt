@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 2

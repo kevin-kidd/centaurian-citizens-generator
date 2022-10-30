@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Stargaze
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Blue
+ID: 851

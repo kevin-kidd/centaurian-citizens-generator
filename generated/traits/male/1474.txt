@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Gold Tubed
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1474

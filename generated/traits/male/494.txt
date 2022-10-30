@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 494

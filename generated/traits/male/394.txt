@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Capacic
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Pink
+ID: 394

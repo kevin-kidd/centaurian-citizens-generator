@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Emerald
+Suit: Emeraldor
+Breastcomputer: Quantum Orb
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Emerald
+ID: 488

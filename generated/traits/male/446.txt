@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 446

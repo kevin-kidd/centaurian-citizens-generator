@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 14

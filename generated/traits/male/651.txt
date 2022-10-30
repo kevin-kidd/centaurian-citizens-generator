@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 651

@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 758

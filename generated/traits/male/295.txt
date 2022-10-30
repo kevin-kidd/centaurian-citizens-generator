@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 295

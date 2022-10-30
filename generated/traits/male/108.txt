@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Drapor
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 108

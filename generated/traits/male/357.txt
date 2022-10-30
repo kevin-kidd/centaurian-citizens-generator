@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 357

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Fur
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Liquid
+ID: 816

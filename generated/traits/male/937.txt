@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Electric
+ID: 937

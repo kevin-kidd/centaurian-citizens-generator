@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 803

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 1311

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 605

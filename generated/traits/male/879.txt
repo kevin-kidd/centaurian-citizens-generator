@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: None
+Eyes: Pink
+ID: 879

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 155

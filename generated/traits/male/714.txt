@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Amethyst
+ID: 714

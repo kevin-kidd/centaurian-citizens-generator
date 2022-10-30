@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Blue
+ID: 1093

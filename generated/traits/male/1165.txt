@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Fur
+Suit: Azulic
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Amethyst
+ID: 1165

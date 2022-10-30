@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Lava
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 509

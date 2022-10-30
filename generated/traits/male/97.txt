@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 97

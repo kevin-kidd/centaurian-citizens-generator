@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 19

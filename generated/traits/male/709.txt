@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 709

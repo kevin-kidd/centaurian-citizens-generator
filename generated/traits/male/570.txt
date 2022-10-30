@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 570

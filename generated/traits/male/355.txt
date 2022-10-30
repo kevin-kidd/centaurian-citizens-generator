@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Plasmic
+Eyes: Black
+ID: 355

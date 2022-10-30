@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 898

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1070

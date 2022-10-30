@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Gray
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Black
+ID: 412

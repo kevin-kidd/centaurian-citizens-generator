@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 942

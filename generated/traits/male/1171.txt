@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 1171

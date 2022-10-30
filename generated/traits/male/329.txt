@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Blue
+ID: 329

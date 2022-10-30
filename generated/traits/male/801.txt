@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 801

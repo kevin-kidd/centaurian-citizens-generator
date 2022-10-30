@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Bronze
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 574

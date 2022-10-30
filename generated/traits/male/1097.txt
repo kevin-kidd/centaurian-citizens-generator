@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1097

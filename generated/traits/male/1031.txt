@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Stargaze
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1031

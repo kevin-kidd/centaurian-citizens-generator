@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Forest"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Scales"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Obsidior"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Opal Process"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "None"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #954",
+    "id": "954",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #954"
+}

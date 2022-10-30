@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 496

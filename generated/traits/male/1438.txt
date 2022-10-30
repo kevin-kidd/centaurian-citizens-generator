@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: Quantor
+Horns: None
+Eyes: Electric
+ID: 1438

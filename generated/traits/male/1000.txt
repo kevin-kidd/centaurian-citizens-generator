@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Black
+ID: 1000

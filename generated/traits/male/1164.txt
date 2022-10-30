@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1164

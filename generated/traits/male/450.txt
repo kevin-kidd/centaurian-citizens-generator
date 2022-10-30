@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 450

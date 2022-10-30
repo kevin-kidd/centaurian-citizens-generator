@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Amethyst
+ID: 553

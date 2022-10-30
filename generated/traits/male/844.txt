@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 844

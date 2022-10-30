@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 1227

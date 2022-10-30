@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 439

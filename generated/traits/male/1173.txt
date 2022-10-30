@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1173

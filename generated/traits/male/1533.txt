@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1533

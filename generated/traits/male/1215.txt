@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Drapor
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1215

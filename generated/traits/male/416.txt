@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Plasmic
+Eyes: Blue
+ID: 416

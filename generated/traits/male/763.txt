@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 763

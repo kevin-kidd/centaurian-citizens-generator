@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 77

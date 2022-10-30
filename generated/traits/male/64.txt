@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Bronze
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 64

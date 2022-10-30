@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 96

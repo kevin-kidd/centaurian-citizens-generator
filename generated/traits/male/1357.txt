@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: None
+Helmet: None
+Face Mask: Insectoid
+Gas Tank: Rotonic
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Black
+ID: 1357

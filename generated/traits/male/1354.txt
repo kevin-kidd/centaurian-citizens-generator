@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 1354

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Gray
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Liquid
+ID: 270

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 133

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 297

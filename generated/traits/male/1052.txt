@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Emerald
+ID: 1052

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Blue
+ID: 985

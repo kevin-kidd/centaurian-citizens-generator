@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Stargaze
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 1306

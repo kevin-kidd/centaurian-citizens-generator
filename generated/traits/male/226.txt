@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 226

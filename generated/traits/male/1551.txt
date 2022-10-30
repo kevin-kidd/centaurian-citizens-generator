@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1551

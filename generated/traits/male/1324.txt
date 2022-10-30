@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1324

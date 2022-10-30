@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Azulic
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: Gold Tubed
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 27

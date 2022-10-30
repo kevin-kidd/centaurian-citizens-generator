@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 540

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Emerald
+ID: 877

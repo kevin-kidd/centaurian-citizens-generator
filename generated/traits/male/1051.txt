@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Liquid
+ID: 1051

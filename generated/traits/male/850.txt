@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 850

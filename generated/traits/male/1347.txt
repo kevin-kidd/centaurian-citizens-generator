@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1347

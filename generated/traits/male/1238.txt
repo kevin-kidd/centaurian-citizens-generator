@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1238

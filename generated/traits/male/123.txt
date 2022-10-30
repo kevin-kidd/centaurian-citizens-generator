@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: None
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 123

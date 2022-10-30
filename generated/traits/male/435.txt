@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Lava
+Suit: Tricolor
+Breastcomputer: Quantum Orb
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 435

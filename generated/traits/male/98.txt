@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 98

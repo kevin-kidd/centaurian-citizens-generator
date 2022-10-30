@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Village"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Gem Quant"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Wavenic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "None"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        }
+    ],
+    "description": "Alpha Centaurian #827",
+    "id": "827",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #827"
+}

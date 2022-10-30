@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Sapphire
+Eyes: Electric
+ID: 42

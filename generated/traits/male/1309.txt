@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1309

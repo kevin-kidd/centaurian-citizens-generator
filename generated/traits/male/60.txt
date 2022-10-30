@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 60

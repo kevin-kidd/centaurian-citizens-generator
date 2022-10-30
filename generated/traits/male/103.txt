@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Black
+ID: 103

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 832

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: Cerebron
+Face Mask: Sapphiric
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1310

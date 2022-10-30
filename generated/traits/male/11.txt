@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 11

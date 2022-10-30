@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: Stargaze
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 476

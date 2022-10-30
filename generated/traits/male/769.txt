@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Ethereal
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 769

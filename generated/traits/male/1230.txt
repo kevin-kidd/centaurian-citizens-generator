@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Gray
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1230

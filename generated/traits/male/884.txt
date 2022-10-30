@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Electric
+ID: 884

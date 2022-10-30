@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1434

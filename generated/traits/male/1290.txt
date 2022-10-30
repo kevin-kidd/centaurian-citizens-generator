@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: Quantor
+Horns: Actuated
+Eyes: Blue
+ID: 1290

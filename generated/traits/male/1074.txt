@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 1074

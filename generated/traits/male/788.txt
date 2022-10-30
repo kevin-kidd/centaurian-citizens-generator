@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Rose Purple
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 788

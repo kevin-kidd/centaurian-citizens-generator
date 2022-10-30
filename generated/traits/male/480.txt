@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Liquid
+ID: 480

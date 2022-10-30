@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Wrinkled"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Legion Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden Protector"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Plasmic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric"
+        }
+    ],
+    "description": "Alpha Centaurian #537",
+    "id": "537",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #537"
+}

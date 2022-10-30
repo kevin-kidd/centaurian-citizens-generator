@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 463

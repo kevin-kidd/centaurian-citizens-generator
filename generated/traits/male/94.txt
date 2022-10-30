@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Gray
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 94

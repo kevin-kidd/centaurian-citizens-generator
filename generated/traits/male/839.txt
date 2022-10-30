@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 839

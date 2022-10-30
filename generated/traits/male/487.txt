@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 487

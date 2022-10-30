@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 273

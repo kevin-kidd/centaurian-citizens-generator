@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Emerald
+ID: 188

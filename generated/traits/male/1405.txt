@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1405

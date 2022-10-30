@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 920

@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solar System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Wrinkled"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Opal Process"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Black Maven"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Alchemy"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Plasmor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        }
+    ],
+    "description": "Alpha Centaurian #625",
+    "id": "625",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #625"
+}

@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Sapphiric
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Electric
+ID: 639

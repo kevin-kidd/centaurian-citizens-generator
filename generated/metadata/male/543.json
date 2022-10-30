@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Village"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Purple Blue"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Emeraldor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Salmonic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Rotonic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Liquid"
+        }
+    ],
+    "description": "Alpha Centaurian #543",
+    "id": "543",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #543"
+}

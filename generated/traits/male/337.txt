@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Fur
+Suit: None
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 337

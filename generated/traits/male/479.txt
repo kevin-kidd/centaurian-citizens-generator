@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 479

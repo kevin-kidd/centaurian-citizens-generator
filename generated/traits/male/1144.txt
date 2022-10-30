@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Drapor
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1144

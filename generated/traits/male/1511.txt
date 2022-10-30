@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1511

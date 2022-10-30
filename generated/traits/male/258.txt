@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 258

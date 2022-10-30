@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "None"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Actuated"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        }
+    ],
+    "description": "Alpha Centaurian #814",
+    "id": "814",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #814"
+}

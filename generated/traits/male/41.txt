@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Scales
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 41

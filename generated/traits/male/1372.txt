@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Blue
+ID: 1372

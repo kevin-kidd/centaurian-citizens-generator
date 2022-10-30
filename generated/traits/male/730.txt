@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 730

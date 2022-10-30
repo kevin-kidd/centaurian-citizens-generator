@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Sapphiric
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 501

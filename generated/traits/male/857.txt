@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Quantum Orb
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 857

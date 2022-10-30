@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 460

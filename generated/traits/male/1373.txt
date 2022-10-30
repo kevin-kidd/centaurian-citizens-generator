@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 1373

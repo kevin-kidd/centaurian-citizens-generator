@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 422

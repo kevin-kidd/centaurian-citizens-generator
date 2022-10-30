@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 546

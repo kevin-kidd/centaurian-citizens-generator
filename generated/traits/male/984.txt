@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 984

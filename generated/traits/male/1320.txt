@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Quantic
+Eyes: Blue
+ID: 1320

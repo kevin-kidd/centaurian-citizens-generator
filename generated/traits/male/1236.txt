@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Scales
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1236

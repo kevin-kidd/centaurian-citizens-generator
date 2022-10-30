@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Quantic
+Eyes: Black
+ID: 1185

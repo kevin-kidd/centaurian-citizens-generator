@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Lava
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 265

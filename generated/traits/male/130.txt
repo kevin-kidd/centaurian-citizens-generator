@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Ethereal
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Plasma
+ID: 130

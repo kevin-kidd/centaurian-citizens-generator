@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Emerald
+ID: 1260

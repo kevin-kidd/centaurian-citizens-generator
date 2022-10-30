@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Fur
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 910

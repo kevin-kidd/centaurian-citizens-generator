@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1028

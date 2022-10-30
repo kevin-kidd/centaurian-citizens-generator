@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Scales
+Suit: None
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Black
+ID: 1059

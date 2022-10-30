@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Landing Ships"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Purple Blue"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Emeraldor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Emeraldic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Vapex"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Biotic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pink"
+        }
+    ],
+    "description": "Alpha Centaurian #1018",
+    "id": "1018",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1018"
+}

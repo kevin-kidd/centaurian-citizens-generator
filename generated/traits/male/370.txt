@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Gray
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 370

@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 213

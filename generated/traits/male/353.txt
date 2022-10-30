@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Blue
+ID: 353

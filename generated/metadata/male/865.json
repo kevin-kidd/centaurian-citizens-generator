@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Plasmic"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Galactic Brick"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        }
+    ],
+    "description": "Alpha Centaurian #865",
+    "id": "865",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #865"
+}

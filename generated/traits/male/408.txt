@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Plasmic
+Eyes: Blue
+ID: 408

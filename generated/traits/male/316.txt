@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 316

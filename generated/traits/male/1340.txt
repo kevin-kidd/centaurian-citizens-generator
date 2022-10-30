@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1340

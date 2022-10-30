@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Black
+ID: 134

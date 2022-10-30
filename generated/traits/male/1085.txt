@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1085

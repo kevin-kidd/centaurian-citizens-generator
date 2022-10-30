@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 896

@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Plasmic
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 493

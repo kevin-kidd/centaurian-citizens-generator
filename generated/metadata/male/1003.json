@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Galaxies"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Emeraldor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Cerebron"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Amethystic"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #1003",
+    "id": "1003",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1003"
+}

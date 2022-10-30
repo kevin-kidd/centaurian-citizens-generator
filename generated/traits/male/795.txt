@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 795

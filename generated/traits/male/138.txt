@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Actuated
+Eyes: Black
+ID: 138

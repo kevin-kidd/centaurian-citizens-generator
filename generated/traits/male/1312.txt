@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Diamond
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Black
+ID: 1312

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 519

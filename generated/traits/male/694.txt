@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Electric
+ID: 694

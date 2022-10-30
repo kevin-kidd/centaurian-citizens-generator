@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Ethereal
+Suit: Azulic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1259

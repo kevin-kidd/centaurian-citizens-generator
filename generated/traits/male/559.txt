@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 559

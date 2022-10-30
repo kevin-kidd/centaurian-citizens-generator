@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Plasmic
+Eyes: Pink
+ID: 7

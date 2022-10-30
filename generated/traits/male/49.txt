@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Stargaze
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 49

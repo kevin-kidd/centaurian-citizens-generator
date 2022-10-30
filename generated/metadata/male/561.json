@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Village"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Emerald"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Amethyst Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Galactic Brick"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Vapex"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Surge"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Actuated"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #561",
+    "id": "561",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #561"
+}

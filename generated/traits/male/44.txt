@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Blue
+ID: 44

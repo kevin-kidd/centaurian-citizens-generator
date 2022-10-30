@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 749

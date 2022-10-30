@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri City"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fur"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "None"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Emeraldic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        }
+    ],
+    "description": "Alpha Centaurian #978",
+    "id": "978",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #978"
+}

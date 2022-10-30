@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Drapor
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 675

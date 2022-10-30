@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 1468

@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Emerald"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Emerald Surge"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Plasmor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Actuated"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pink"
+        }
+    ],
+    "description": "Alpha Centaurian #597",
+    "id": "597",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #597"
+}

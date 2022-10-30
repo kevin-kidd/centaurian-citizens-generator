@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 671

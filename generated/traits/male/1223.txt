@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Gray
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 1223

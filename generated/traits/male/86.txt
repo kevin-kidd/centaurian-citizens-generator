@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 86

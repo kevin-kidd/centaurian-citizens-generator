@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Black
+ID: 1221

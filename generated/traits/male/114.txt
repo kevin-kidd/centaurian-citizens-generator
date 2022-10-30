@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Gold Tubed
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Quantic
+Eyes: Black
+ID: 114

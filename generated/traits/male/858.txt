@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Gold Tubed
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 858

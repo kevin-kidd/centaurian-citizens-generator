@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1497

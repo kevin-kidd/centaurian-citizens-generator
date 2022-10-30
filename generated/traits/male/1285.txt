@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1285

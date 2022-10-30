@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Drapor
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 296

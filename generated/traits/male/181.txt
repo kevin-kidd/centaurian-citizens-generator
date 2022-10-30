@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Plasmic
+Eyes: Black
+ID: 181

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 167

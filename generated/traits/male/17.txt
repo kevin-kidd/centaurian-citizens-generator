@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 17

@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 137

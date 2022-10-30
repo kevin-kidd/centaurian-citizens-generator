@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Emerald
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Stargaze
+Face Mask: Surge
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 904

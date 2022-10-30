@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 1297

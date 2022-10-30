@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 899

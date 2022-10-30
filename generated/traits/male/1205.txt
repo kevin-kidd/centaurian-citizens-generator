@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1205

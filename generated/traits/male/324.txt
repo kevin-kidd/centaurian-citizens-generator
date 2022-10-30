@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 324

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 15

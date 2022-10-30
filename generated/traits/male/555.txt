@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 555

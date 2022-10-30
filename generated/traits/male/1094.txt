@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Liquid
+ID: 1094

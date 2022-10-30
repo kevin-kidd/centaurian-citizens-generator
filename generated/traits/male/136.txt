@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 136

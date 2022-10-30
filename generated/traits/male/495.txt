@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 495

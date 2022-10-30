@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 278

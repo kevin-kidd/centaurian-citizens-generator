@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: None
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Blue
+ID: 1064

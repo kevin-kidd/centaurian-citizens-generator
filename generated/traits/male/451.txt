@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Gold Tubed
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 451

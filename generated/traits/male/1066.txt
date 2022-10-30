@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 1066

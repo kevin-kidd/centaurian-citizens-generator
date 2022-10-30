@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 727

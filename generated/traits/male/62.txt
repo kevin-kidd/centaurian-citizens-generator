@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 62

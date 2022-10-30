@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Liquid
+ID: 378

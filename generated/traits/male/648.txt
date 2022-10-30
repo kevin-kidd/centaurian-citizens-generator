@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 648

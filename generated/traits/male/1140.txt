@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1140

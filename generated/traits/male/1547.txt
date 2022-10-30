@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 1547

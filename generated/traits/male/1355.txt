@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 1355

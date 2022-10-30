@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 626

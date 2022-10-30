@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 1265

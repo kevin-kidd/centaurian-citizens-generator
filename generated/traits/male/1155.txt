@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Plasma
+ID: 1155

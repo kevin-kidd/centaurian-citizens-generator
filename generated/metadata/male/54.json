@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Forest"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Bronze"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Gold Tubed"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Plasmic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pink"
+        }
+    ],
+    "description": "Alpha Centaurian #54",
+    "id": "54",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #54"
+}

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Plasmic
+Eyes: Blue
+ID: 352

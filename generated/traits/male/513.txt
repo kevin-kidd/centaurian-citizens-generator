@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Pink
+ID: 513

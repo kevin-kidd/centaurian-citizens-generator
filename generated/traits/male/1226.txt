@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 1226

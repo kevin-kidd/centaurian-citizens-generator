@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Liquid
+ID: 1543

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1224

@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 838

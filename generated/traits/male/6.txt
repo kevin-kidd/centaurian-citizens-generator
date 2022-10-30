@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 6

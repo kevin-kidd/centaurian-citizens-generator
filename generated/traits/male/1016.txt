@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1016

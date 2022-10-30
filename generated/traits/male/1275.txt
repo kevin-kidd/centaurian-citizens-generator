@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Emerald
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Liquid
+ID: 1275

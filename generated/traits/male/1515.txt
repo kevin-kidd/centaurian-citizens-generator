@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Biotic
+Handheld Item: Plasmor
+Horns: Sapphire
+Eyes: Electric
+ID: 1515

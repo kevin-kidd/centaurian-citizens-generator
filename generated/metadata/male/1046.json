@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri Portal"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Purple Blue"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "None"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Legion Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Salmonic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Biotic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Liquid"
+        }
+    ],
+    "description": "Alpha Centaurian #1046",
+    "id": "1046",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1046"
+}

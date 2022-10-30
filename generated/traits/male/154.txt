@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 154

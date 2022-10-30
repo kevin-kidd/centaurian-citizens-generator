@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1370

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 290

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Quantum Orb
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 22

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 706

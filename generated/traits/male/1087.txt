@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1087

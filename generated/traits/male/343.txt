@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Black
+ID: 343

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1472

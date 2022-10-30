@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Liquid
+ID: 1262

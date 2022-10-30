@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1024

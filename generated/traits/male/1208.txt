@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1208

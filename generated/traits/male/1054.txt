@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1054

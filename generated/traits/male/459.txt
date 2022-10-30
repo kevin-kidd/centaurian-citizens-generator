@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 459

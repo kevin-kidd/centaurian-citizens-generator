@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Wrinkled"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Tricolor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Emerald Surge"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "None"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Plasma"
+        }
+    ],
+    "description": "Alpha Centaurian #882",
+    "id": "882",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #882"
+}

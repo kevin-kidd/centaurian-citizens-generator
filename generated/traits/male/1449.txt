@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1449

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 1078

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 691

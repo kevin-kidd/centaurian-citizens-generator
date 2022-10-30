@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1269

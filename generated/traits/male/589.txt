@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 589

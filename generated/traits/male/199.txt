@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 199

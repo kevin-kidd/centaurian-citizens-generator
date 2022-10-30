@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1102

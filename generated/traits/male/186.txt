@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Sapphiric
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 186

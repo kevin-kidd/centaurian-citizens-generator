@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 961

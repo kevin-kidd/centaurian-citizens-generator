@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 37

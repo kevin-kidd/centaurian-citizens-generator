@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Emerald
+ID: 782

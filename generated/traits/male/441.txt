@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Fur
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 441

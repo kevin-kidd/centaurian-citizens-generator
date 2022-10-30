@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Gray
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1240

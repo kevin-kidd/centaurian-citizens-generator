@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Stargaze
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 646

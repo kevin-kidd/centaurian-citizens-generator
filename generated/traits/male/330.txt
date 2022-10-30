@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 330

@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Emerald
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Black
+ID: 1071

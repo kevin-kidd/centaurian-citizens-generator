@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Drapor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Pink
+ID: 415

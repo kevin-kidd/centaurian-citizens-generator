@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Blue
+ID: 609

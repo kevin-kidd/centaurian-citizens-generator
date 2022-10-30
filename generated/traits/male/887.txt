@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 887

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 438

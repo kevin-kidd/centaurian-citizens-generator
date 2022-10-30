@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 348

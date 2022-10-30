@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 992

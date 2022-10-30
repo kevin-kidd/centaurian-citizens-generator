@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1225

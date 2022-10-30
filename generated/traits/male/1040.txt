@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Pink
+ID: 1040

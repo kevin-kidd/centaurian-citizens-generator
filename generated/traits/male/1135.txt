@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1135

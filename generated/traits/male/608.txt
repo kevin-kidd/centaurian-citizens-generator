@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Capacic
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Sapphiric
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 608

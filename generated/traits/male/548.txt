@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: None
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 548

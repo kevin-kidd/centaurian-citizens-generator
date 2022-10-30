@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 621

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 999

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Pink
+ID: 960

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Black
+ID: 943

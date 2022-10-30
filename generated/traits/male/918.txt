@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 918

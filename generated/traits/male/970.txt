@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 970

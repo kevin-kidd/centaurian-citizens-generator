@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Liquid
+ID: 1456

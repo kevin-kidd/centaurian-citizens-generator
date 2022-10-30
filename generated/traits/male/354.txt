@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 354

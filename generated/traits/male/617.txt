@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 617

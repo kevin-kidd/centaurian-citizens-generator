@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Plasma
+ID: 1291

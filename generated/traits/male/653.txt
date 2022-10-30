@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 653

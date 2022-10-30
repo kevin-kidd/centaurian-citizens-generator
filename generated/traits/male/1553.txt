@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Scales
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1553

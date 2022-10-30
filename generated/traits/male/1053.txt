@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1053

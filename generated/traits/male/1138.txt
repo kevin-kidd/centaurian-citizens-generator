@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Fur
+Suit: None
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 1138

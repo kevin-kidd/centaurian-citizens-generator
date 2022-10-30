@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Black
+ID: 521

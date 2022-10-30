@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Pink
+ID: 1142

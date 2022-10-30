@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1442

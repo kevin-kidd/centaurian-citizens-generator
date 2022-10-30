@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1007

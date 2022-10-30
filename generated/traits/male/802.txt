@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 802

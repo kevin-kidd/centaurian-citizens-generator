@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Ethereal
+Suit: Azulic
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1488

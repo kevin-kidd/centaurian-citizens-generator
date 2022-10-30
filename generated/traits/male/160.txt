@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 160

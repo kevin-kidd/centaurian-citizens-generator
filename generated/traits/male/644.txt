@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Black
+ID: 644

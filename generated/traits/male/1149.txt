@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 1149

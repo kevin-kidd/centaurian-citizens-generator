@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 577

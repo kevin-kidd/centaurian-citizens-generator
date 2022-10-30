@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Stargaze
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Amethyst
+ID: 149

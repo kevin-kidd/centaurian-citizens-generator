@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 235

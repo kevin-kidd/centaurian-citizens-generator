@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Plasmic
+Eyes: Liquid
+ID: 250

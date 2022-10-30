@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 638

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 1111

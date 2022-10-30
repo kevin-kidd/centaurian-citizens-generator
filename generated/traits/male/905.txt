@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 905

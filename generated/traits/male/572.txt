@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Diamond
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 572

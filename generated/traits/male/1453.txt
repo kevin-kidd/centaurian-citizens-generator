@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 1453

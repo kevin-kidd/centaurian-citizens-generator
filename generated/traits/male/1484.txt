@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 1484

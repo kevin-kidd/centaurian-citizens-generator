@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 40

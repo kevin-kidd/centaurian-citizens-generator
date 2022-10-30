@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 147

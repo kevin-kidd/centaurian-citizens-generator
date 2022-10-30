@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 682

@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Galaxies"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Green Gold"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Capacic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "None"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Wavenic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Bristled"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Electric"
+        }
+    ],
+    "description": "Alpha Centaurian #969",
+    "id": "969",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #969"
+}

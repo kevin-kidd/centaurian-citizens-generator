@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Plasmic
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1241

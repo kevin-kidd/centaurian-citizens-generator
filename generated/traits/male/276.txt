@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 276

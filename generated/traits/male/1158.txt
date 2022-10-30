@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1158

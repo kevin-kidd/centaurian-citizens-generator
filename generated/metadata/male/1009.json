@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solar System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fur"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Golden Quant"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Golden Protector"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Amethystic"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Quantor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        }
+    ],
+    "description": "Alpha Centaurian #1009",
+    "id": "1009",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1009"
+}

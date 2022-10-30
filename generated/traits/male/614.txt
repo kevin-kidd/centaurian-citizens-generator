@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Black Maven
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 614

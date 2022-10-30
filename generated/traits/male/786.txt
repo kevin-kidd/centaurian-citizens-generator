@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 786

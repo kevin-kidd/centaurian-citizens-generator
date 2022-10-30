@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1118

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 800

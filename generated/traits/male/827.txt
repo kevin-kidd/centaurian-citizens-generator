@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 827

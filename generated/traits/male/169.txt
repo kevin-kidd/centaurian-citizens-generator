@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Diamond
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 169

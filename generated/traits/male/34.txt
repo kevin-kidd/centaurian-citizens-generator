@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 34

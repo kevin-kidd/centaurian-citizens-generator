@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1250

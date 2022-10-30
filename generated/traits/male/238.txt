@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 238

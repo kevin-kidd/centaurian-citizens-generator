@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1281

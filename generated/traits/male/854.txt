@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 854

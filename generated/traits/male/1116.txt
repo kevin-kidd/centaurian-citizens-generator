@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1116

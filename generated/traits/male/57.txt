@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 57

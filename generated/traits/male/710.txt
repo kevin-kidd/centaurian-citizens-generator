@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 710

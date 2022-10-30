@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 684

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Plasmor
+Horns: Bristled
+Eyes: Blue
+ID: 1255

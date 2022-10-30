@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 367

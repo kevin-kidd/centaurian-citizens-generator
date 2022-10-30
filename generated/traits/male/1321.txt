@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Electric
+ID: 1321

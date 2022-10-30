@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Gray
+Suit: Drapor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Electric
+ID: 792

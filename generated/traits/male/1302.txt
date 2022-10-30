@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Bronze
+Suit: None
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 1302

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 1529

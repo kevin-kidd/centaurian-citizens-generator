@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Ethereal
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 716

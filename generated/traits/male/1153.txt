@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1153

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 366

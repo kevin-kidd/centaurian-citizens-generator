@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 1333

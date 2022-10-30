@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 356

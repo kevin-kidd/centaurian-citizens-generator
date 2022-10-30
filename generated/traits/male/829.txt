@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 829

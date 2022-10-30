@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Plasma
+ID: 811

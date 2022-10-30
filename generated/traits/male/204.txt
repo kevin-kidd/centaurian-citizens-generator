@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: None
+Eyes: Pink
+ID: 204

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Quantic
+Eyes: Blue
+ID: 223

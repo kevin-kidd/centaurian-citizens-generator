@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Cerebron
+Face Mask: Gold Tubed
+Gas Tank: Blaze
+Handheld Item: Plasmor
+Horns: Actuated
+Eyes: Blue
+ID: 1362

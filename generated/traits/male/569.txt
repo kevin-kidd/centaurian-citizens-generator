@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 569

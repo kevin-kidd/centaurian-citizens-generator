@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 196

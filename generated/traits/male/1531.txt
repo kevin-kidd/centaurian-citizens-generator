@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 1531

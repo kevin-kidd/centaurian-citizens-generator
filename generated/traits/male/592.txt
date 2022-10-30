@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Diamond
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 592

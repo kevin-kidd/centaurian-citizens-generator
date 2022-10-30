@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 817

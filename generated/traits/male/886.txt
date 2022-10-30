@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 886

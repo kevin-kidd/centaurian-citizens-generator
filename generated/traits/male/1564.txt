@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 1564

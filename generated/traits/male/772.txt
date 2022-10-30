@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 772

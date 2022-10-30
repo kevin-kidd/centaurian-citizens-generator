@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Capacic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 729

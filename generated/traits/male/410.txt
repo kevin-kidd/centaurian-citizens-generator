@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 410

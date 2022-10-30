@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1179

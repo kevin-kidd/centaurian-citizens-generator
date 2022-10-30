@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 724

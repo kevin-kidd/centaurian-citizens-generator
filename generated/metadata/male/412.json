@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Stars"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue Gray"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Azulic"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Opal Process"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Galactic Brick"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Amethystic"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Plasmic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Golden"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        }
+    ],
+    "description": "Alpha Centaurian #412",
+    "id": "412",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #412"
+}

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 986

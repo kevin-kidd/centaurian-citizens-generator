@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Capacic
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Emerald
+ID: 938

@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1026

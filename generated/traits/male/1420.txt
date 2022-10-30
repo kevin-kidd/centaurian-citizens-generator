@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1420

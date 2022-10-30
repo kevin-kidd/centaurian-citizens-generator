@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Azulic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 1033

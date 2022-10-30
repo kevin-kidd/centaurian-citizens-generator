@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Pink
+ID: 30

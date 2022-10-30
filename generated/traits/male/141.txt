@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Liquid
+ID: 141

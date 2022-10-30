@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 893

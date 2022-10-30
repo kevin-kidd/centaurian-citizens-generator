@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Quantum Orb
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 820

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 1458

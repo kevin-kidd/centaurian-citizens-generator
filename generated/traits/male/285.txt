@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 285

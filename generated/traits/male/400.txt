@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 400

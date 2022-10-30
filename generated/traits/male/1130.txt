@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 1130

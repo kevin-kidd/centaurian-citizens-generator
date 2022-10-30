@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 637

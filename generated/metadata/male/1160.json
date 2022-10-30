@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue Green"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "None"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Opal Process"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Wavenic"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Amethystic"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "Bullic"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Emerald"
+        }
+    ],
+    "description": "Alpha Centaurian #1160",
+    "id": "1160",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #1160"
+}

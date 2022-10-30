@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1341

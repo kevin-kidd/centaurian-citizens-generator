@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1203

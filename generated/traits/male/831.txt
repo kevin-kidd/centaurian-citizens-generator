@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Amethyst
+ID: 831

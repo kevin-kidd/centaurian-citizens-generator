@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 419

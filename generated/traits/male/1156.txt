@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 1156

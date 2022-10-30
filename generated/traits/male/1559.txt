@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1559

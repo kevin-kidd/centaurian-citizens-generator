@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1098

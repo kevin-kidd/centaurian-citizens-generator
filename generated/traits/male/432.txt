@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: Stargaze
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Amethyst
+ID: 432

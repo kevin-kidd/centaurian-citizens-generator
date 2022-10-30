@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 122

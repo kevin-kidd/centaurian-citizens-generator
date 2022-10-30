@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Pink
+ID: 1082

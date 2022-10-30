@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Black
+ID: 426

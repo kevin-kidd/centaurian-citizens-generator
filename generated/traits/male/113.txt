@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Electric
+ID: 113

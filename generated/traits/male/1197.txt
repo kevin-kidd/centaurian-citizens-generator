@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1197

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1204

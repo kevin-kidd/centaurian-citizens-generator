@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Ethereal
+Suit: Stargaze
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Amethyst
+ID: 303

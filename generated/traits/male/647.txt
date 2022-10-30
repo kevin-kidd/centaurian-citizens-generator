@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Diamond
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Sapphiric
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 647

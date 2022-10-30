@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1181

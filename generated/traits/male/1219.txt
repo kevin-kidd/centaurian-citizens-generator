@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Stargaze
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Electric
+ID: 1219

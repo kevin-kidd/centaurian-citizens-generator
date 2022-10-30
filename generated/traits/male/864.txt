@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 864

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Insectoid
+Gas Tank: Quantic
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Pink
+ID: 1128

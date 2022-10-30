@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Fur
+Suit: None
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 615

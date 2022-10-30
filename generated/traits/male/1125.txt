@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Capacic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Black
+ID: 1125

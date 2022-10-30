@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Plasmic
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 780

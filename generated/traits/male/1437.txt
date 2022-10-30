@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1437

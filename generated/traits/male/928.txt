@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Quantic
+Eyes: Electric
+ID: 928

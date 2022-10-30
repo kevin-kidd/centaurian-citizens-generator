@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: None
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 725

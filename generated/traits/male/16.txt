@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 16

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 720

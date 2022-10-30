@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 1151

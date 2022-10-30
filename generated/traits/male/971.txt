@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Emerald
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 971

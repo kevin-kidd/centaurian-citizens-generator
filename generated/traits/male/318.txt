@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 318

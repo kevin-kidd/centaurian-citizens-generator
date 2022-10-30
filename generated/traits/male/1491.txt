@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1491

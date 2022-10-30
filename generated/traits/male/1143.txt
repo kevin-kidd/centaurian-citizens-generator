@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Ethereal
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1143

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Blue Green
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 712

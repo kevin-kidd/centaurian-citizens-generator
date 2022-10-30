@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 805

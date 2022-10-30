@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 903

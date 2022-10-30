@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 383

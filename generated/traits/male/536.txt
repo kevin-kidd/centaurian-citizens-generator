@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Fur
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 536

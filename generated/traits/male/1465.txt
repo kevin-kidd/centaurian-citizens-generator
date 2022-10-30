@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Quantic
+Eyes: Blue
+ID: 1465

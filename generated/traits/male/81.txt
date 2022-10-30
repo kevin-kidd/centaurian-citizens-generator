@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Liquid
+ID: 81

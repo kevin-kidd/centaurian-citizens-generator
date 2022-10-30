@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1046

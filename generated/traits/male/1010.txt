@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1010

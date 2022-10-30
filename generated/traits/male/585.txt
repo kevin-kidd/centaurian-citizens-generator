@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Liquid
+ID: 585

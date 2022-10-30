@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 334

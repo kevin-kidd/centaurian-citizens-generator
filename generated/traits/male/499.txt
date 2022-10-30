@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Lava
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 499

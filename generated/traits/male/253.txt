@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 253

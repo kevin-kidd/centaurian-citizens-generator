@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 320

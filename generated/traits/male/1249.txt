@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Golden
+Eyes: Emerald
+ID: 1249

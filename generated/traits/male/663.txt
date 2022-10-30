@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Bronze
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Liquid
+ID: 663

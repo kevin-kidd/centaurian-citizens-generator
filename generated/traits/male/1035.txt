@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Electric
+ID: 1035

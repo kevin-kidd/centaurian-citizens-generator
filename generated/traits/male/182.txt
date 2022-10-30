@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Black
+ID: 182

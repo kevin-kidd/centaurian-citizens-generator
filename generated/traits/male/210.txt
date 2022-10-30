@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Stargaze
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 210

@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Stargaze
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 306

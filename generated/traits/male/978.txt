@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Fur
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 978

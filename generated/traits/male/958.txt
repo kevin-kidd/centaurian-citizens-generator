@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 958

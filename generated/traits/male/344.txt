@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Gray
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 344

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 544

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Vapex
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 987

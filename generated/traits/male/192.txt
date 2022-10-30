@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: Stargaze
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 192

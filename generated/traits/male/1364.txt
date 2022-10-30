@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Bronze
+Suit: Tricolor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1364

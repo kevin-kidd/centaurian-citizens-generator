@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1377

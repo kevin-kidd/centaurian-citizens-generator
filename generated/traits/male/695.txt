@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 695

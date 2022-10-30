@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Shirt: Obsidior
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1570

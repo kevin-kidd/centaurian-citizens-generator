@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Plasmic
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1099

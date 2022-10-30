@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 301

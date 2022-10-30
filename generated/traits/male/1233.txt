@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Electric
+ID: 1233

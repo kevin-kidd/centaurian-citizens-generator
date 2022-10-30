@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Gray
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 284

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 649

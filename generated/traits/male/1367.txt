@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Emerald
+ID: 1367

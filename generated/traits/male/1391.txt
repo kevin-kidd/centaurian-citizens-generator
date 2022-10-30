@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1391

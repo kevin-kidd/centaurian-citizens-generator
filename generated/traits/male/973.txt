@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 973

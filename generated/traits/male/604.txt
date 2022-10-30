@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 604

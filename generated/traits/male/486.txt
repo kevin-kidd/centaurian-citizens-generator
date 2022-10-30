@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Sapphiric
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 486

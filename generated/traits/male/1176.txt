@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1176

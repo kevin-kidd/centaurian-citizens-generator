@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1287

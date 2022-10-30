@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Plasmic
+Eyes: Electric
+ID: 906

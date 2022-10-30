@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Sapphiric
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Blue
+ID: 1498

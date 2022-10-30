@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 677

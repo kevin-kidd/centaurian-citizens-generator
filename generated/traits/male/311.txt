@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Quantic
+Eyes: Blue
+ID: 311

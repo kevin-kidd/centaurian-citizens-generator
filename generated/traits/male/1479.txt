@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1479

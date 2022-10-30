@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 317

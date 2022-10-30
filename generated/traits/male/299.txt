@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 299

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Plasmic
+Eyes: Blue
+ID: 825

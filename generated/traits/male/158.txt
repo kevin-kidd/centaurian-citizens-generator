@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 158

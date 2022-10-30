@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 1189

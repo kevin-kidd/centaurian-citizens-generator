@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 153

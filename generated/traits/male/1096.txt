@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Emerald
+ID: 1096

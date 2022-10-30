@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Rose Purple
+Suit: Drapor
+Breastcomputer: Stargaze
+Helmet: Stargaze
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 530

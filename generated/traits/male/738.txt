@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 738

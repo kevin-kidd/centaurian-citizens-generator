@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Plasmor
+Horns: None
+Eyes: Amethyst
+ID: 625

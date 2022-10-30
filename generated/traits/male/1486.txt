@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Green Gold
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Electric
+ID: 1486

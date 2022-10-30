@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 946

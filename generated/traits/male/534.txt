@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Legion Calc
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Plasmic
+Eyes: Amethyst
+ID: 534

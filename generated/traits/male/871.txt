@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Fur
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 871

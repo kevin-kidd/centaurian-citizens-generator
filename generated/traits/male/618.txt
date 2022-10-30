@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: Stargaze
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 618

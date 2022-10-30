@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Stargaze
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Gold Tubed
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 48

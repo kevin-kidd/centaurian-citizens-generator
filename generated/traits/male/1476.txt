@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Black Maven
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 1476

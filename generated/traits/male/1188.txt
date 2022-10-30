@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Pink
+ID: 1188

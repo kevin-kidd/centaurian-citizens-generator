@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Blue
+ID: 672

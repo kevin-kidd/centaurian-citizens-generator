@@ -1,0 +1,19 @@
+{
+  "name": "alpha_centaurian_citizens_generator",
+  "version": "1.0.1",
+  "description": "NFT Generator for Alpha Centaurian Citizens",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate-metadata": "node --experimental-json-modules scripts/generate_data.js",
+    "generate-images": "node --experimental-json-modules scripts/generate_images.js",
+    "add-images-to-metadata": "node --experimental-json-modules scripts/add_images_to_metadata.js",
+    "run-tests": "node --experimental-json-modules tests/run_tests.js"
+  },
+  "author": "@KevinAKidd",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "merge-images": "^2.0.0"
+  }
+}

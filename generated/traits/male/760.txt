@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Quantic
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 760

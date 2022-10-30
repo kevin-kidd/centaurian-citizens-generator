@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Sapphiric
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 550

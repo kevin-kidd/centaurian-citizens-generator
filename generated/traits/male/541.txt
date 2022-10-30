@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Emerald
+ID: 541

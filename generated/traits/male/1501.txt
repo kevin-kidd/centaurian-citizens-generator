@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1501

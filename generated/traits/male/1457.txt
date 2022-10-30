@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Ethereal
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1457

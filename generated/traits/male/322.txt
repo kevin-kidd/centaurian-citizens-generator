@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Black
+ID: 322

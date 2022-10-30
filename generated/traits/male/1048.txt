@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Diamond
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1048

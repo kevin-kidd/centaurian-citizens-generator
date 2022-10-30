@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1005

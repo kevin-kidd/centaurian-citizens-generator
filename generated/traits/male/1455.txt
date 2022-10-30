@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Stargaze
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 1455

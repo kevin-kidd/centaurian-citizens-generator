@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Stargaze
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 91

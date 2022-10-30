@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Fur
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 736

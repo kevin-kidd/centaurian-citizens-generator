@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 642

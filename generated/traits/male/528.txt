@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 528

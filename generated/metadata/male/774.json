@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue Green"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Obsidior"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Golden Quant"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Galactic Brick"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Amethystic"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Alchemy"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        }
+    ],
+    "description": "Alpha Centaurian #774",
+    "id": "774",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #774"
+}

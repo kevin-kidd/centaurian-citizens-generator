@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Pink
+ID: 381

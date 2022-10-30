@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 319

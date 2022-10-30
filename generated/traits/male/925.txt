@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 925

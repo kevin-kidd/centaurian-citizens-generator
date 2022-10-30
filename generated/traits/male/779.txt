@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Pink
+ID: 779

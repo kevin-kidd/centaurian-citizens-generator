@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Gold Tubed
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 768

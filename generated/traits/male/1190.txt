@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 1190

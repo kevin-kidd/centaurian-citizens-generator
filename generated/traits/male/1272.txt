@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1272

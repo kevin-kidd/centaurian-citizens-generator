@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Stargaze
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 629

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Fur
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1467

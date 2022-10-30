@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Drapor
+Breastcomputer: Quantum Orb
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 131

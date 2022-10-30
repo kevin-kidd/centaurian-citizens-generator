@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 413

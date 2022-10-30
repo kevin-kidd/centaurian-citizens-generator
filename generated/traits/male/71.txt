@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Emerald
+ID: 71

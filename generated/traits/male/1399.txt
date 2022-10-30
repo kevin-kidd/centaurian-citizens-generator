@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Amethyst
+ID: 1399

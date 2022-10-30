@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Azulic
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Amethyst
+ID: 1524

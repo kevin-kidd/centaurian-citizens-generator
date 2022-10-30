@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 128

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 469

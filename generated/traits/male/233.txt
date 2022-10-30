@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Drapor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 233

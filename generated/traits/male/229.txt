@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 229

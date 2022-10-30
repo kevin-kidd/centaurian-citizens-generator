@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 1334

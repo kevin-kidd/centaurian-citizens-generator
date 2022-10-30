@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1480

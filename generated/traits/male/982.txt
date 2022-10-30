@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 982

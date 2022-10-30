@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 595

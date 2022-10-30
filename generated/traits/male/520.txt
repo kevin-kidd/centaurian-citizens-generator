@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 520

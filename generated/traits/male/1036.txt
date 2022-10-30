@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Amethyst
+ID: 1036

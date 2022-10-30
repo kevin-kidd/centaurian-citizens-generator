@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Emerald
+Suit: Capacic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 382

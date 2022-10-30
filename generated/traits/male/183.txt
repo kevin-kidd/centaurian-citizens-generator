@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Fur
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 183

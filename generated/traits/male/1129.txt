@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 1129

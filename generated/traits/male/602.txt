@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Scales
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 602

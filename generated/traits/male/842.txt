@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Emerald
+Suit: Quantic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 842

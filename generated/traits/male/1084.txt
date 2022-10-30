@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Amethyst
+ID: 1084

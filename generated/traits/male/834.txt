@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Plasmic
+Eyes: Liquid
+ID: 834

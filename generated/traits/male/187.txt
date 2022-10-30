@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 187

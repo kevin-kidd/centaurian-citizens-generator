@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 707

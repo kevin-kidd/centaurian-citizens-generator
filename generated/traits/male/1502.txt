@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 1502

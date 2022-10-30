@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Fur
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 901

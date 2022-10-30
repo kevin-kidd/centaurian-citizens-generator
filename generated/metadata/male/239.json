@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Centauri System"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Rose Purple"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Tricolor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Legion Calc"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Vapex"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Quantic"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        }
+    ],
+    "description": "Alpha Centaurian #239",
+    "id": "239",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #239"
+}

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 748

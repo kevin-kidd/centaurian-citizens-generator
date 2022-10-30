@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Fur
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Pink
+ID: 891

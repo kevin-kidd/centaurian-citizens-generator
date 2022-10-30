@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 980

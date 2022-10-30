@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 456

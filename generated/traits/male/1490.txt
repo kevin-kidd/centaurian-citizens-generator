@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 1490

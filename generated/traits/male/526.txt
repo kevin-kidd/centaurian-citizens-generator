@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 526

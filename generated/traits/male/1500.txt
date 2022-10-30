@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1500

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 667

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 251

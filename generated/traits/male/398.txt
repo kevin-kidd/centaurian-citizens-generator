@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Bronze
+Suit: Capacic
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 398

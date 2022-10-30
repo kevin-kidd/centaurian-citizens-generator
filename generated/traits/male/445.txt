@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Pink
+ID: 445

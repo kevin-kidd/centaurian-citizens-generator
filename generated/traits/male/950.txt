@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 950

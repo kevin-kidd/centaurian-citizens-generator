@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Sapphire
+Eyes: Liquid
+ID: 664

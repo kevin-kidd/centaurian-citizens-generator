@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Black Maven
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Liquid
+ID: 711

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 1513

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1433

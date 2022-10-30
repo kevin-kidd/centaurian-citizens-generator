@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 1239

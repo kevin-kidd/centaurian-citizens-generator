@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Diamond
+Suit: Quantic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1163

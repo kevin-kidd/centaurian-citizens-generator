@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Liquid
+ID: 1404

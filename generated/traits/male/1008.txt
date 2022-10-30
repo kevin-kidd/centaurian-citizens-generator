@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Plasmor
+Horns: None
+Eyes: Liquid
+ID: 1008

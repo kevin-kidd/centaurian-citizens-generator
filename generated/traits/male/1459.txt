@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Liquid
+ID: 1459

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Gold Tubed
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Bristled
+Eyes: Black
+ID: 1495

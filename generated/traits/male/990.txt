@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Plasmic
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 990

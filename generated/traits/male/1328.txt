@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1328

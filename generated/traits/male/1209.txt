@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1209

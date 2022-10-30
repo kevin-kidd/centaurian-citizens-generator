@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: Quantor
+Horns: Quantic
+Eyes: Liquid
+ID: 38

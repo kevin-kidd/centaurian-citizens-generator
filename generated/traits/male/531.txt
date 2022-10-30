@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Lava
+Suit: Quantic
+Breastcomputer: Stargaze
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 531

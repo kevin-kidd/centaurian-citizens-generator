@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1351

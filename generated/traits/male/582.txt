@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Liquid
+ID: 582

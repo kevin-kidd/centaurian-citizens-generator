@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1443

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: Sapphiric
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 909

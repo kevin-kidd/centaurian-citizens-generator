@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 150

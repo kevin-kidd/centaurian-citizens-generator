@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Green Gold
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Cerebron
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Emerald
+ID: 127

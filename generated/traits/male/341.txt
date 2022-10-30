@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Emerald
+Suit: None
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Liquid
+ID: 341

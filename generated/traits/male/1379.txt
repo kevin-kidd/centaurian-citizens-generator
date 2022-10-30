@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1379

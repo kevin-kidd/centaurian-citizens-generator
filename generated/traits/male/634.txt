@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 634

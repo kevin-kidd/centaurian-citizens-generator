@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 924

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 9

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 745

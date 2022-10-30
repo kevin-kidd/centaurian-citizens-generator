@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Diamond
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 429

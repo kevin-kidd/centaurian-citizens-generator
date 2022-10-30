@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 507

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 1365

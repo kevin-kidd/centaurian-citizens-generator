@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 208

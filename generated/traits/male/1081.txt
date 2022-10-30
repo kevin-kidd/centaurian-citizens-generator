@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1081

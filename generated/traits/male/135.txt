@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Liquid
+ID: 135

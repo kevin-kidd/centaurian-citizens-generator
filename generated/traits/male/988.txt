@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Plasmic
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 988

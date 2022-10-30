@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Fur
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1555

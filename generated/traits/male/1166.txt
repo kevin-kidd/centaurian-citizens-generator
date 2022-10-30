@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1166

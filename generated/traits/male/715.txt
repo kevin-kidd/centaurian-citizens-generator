@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Golden Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Blue
+ID: 715

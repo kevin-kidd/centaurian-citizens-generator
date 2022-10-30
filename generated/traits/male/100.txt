@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Ethereal
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 100

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 593

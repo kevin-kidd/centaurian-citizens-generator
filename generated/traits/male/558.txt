@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 558

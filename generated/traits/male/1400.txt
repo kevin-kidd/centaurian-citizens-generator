@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1400

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Surge
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 1315

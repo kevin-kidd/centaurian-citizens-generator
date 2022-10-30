@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Stargaze
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 148

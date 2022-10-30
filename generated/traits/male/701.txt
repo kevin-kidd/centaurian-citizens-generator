@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 701

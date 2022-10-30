@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Capacic
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 209

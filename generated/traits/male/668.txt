@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Emerald Surge
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 668

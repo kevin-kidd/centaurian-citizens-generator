@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Fur
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 112

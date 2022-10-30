@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Green Gold
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Plasmic
+Eyes: Liquid
+ID: 93

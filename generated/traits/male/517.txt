@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 517

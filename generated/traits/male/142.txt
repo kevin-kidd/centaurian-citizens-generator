@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Liquid
+ID: 142

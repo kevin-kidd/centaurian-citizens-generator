@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 549

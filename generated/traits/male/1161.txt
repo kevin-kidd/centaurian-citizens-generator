@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Pink
+ID: 1161

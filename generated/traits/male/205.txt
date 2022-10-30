@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Emerald
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Gold Tubed
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 205

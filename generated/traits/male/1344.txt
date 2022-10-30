@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1344

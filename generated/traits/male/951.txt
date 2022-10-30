@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Actuated
+Eyes: Emerald
+ID: 951

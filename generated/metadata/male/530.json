@@ -1,0 +1,48 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Landing Ships"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Rose Purple"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Drapor"
+        },
+        {
+            "trait_type": "Breastcomputer",
+            "value": "Stargaze"
+        },
+        {
+            "trait_type": "Helmet",
+            "value": "Stargaze"
+        },
+        {
+            "trait_type": "Face Mask",
+            "value": "Vapex"
+        },
+        {
+            "trait_type": "Gas Tank",
+            "value": "Alchemy"
+        },
+        {
+            "trait_type": "Handheld Item",
+            "value": "Rotonic Capacitor"
+        },
+        {
+            "trait_type": "Horns",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        }
+    ],
+    "description": "Alpha Centaurian #530",
+    "id": "530",
+    "external_url": "https://alphacentaurians.club/",
+    "name": "Alpha Centaurian #530"
+}

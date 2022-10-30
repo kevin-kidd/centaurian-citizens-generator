@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Diamond
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1303

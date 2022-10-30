@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Pink
+ID: 1494

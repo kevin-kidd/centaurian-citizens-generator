@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 104

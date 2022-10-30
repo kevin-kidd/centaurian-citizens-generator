@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Diamond
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 703

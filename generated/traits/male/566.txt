@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Green Gold
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Electric
+ID: 566

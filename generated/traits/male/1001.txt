@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Gray
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1001

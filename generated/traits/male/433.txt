@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 433

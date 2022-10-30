@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Lava
+Suit: Azulic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Blue
+ID: 500

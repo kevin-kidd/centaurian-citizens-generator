@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 1127

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 287

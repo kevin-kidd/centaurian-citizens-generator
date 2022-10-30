@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Ethereal
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 917

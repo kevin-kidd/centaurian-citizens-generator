@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Drapor
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1170

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 1446

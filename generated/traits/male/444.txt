@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: None
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 444

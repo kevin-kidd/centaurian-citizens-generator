@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Black
+ID: 1487

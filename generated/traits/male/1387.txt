@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1387

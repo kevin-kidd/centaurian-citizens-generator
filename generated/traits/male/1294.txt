@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Electric
+ID: 1294

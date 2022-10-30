@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Liquid
+ID: 194

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Drapor
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Black
+ID: 859

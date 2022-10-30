@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Insectoid
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 212

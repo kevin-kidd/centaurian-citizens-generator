@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 855

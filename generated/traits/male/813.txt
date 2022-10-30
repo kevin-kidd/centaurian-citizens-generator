@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Diamond
+Suit: Capacic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Emerald
+ID: 813

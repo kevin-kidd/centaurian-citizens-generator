@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 631

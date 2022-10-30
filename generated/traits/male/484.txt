@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: None
+Eyes: Black
+ID: 484

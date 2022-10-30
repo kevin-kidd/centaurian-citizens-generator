@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: Stargaze
+Helmet: Galactic Brick
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 902

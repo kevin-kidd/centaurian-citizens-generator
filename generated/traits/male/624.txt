@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 624

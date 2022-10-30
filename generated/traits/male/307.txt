@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Ethereal
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 307

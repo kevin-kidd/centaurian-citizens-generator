@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Emerald
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 424

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Blue
+ID: 326

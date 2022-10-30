@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 806

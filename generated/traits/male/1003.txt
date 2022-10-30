@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Blue
+ID: 1003

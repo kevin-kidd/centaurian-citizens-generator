@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 1546

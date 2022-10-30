@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Stargaze
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 200

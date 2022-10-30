@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 757

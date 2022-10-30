@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Emerald
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 927

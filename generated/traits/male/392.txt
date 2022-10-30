@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 392

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Plasma
+ID: 1558

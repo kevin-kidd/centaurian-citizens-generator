@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1381

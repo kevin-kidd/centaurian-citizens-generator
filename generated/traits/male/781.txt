@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Gold Tubed
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 781

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 185

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bristled
+Eyes: Amethyst
+ID: 1542

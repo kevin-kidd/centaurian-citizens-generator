@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Ethereal
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 1107

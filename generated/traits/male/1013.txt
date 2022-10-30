@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1013

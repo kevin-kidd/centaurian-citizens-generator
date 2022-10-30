@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 121

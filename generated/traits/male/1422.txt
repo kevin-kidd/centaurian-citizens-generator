@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1422

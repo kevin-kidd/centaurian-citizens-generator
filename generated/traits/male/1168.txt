@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 1168

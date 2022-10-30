@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 405

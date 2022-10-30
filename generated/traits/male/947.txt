@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 947

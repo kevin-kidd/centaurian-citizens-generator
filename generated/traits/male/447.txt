@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Wrinkled
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Blue
+ID: 447

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Quantic
+Eyes: Pink
+ID: 681

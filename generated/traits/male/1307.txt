@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 1307

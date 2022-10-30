@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 414

@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 833

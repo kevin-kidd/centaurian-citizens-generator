@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Ethereal
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Black Maven
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 863

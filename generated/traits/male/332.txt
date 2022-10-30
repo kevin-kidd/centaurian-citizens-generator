@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 332

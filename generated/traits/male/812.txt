@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 812

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Rotonic Capacitor
+Horns: Actuated
+Eyes: Amethyst
+ID: 814

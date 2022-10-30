@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 666

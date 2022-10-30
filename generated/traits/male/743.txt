@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 743

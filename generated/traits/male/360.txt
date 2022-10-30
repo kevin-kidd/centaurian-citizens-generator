@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 360

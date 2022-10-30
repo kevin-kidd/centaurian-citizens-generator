@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 1540

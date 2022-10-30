@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Bristled
+Eyes: Liquid
+ID: 255

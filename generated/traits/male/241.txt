@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Lava
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Stargaze
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 241

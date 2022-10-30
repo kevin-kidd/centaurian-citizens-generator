@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Emerald
+ID: 1011

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Amethyst
+ID: 1439

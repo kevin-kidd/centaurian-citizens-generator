@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Emerald
+Suit: None
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Black
+ID: 869

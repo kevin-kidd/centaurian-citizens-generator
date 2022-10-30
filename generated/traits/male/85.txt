@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Rose Purple
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 85

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Emerald
+Suit: Capacic
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 240

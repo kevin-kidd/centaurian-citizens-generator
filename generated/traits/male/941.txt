@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Fur
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 941

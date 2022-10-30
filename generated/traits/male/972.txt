@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 972

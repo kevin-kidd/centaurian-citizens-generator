@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Capacic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1402

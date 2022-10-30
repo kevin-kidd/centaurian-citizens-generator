@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Black
+ID: 552

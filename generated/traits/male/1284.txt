@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 1284

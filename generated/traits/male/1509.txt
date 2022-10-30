@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Golden Quant
+Helmet: Stargaze
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 1509

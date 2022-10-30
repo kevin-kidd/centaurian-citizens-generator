@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 1248

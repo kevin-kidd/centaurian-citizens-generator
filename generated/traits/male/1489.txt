@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Cerebron
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1489

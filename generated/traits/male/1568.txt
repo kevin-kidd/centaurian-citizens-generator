@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Shirt: Quantic
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 1568

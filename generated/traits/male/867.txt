@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Tricolor
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 867

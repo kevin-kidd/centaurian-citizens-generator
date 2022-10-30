@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Plasmic
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 567

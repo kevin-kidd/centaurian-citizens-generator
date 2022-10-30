@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Stargaze
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Plasmic
+Eyes: Blue
+ID: 52

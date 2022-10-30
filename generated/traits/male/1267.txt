@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 1267

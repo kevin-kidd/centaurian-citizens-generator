@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Drapor
+Breastcomputer: Golden Quant
+Helmet: Salmonic
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 643

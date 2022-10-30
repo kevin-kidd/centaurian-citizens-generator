@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Blue
+ID: 897

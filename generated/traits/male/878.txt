@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Emerald
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 878

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Green Gold
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 1258

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Rose Purple
+Suit: Obsidior
+Breastcomputer: Quantum Orb
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Bullic
+Eyes: Pink
+ID: 362

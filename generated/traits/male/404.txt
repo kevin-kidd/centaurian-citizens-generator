@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: None
+Helmet: None
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Amethyst
+ID: 404

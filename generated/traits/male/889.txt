@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 889

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Quantic
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Sapphiric
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 968

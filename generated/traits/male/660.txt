@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Ethereal
+Suit: Drapor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 660

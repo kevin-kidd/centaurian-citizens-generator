@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 286

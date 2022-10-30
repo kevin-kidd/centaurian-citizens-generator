@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Ethereal
+Suit: Obsidior
+Breastcomputer: Stargaze
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Amethyst
+ID: 1247

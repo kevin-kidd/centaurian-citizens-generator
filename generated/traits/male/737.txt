@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 737

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 1134

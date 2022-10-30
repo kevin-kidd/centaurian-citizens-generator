@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 762

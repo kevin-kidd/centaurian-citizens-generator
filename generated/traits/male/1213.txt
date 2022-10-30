@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 1213

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: None
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 1199

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 407

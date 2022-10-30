@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Quantum Orb
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Black
+ID: 264

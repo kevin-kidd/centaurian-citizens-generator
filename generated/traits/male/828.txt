@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 828

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1517

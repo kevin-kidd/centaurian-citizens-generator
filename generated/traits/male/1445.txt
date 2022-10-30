@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1445

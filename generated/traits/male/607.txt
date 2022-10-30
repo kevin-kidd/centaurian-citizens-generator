@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 607

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: None
+Breastcomputer: None
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Electric
+ID: 80

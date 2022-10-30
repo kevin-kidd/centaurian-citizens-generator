@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Actuated
+Eyes: Liquid
+ID: 770

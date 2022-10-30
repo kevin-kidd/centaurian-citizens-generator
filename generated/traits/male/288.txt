@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Green Gold
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 288

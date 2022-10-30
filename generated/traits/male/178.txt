@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 178

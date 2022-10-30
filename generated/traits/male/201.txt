@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Rose Purple
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Pink
+ID: 201

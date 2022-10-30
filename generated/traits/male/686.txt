@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Purple Blue
+Suit: Stargaze
+Breastcomputer: Golden Quant
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Emerald
+ID: 686

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Fur
+Suit: Stargaze
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Liquid
+ID: 804

@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Gray
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Blue
+ID: 965

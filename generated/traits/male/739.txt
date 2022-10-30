@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Stargaze
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Golden
+Eyes: Black
+ID: 739

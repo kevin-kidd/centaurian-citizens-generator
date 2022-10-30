@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 1403

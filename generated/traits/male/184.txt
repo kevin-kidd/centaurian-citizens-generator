@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 184

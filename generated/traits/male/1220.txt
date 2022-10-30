@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Quantic
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 1220

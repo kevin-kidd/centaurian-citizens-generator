@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1019

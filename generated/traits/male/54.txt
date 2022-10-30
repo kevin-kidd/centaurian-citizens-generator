@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Plasmic
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Pink
+ID: 54

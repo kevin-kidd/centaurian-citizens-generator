@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Gray
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 1522

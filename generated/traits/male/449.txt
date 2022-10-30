@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Golden Quant
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 449

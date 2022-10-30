@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Plasmic
+Suit: Drapor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 620

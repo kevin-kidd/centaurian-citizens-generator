@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Golden
+Eyes: Amethyst
+ID: 191

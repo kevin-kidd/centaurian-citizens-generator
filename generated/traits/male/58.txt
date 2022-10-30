@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 58

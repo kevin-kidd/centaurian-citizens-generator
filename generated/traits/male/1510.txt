@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Stargaze
+Helmet: Stargaze
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Electric
+ID: 1510

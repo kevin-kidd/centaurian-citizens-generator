@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Emerald
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Black Maven
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Quantic
+Eyes: Plasma
+ID: 1382

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Lava
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 523

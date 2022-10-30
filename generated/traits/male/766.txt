@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Black Maven
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 766

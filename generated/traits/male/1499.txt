@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Azulic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Liquid
+ID: 1499

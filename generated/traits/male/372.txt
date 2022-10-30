@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Bronze
+Suit: None
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: Plasmor
+Horns: Quantic
+Eyes: Blue
+ID: 372

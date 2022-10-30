@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 1237

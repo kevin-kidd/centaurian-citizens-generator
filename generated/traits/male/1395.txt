@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Drapor
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 1395

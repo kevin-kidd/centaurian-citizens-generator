@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 551

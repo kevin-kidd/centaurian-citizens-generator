@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Gray
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: Salmonic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 861

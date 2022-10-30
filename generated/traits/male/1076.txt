@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1076

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 690

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Liquid
+ID: 1246

@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 1278

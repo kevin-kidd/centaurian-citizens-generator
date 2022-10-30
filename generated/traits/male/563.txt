@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Liquid
+ID: 563

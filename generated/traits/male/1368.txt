@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Ethereal
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Stargaze
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Emerald
+ID: 1368

@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Capacic
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Insectoid
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Liquid
+ID: 39

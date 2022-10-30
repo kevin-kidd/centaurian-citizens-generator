@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Golden
+Eyes: Electric
+ID: 231

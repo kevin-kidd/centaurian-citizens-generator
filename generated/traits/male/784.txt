@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Electric
+ID: 784

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 847

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Fur
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 481

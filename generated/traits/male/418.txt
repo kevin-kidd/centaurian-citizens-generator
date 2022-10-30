@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Tricolor
+Breastcomputer: Opal Process
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 418

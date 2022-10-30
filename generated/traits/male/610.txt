@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Golden
+Eyes: Emerald
+ID: 610

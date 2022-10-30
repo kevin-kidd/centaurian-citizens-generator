@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 787

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Electric
+ID: 281

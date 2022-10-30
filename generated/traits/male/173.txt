@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 173

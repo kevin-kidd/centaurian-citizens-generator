@@ -1,0 +1,11 @@
+Background: Centauri System
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 266

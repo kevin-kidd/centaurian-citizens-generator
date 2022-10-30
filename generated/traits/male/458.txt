@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Black
+ID: 458

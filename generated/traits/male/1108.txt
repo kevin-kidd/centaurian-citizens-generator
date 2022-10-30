@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 1108

@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Electric
+ID: 843

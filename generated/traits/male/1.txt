@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Scales
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 1

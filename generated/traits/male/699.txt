@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: None
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Electric
+ID: 699

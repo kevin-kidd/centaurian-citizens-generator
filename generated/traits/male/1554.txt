@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 1554

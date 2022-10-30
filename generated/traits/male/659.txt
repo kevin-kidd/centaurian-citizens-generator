@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Blue Green
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: Emeraldic
+Face Mask: Surge
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 659

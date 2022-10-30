@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: Wavenic
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bullic
+Eyes: Black
+ID: 916

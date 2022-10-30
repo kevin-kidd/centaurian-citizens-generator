@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Rose Purple
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 977

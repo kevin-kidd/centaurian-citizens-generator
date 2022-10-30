@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Fur
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Bullic
+Eyes: Electric
+ID: 591

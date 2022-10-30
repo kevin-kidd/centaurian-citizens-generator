@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 390

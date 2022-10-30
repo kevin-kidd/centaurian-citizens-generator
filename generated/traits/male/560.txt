@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Scales
+Suit: Capacic
+Breastcomputer: Gem Quant
+Helmet: Golden Protector
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Actuated
+Eyes: Pink
+ID: 560

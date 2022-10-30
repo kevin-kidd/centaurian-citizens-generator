@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Blaze
+Handheld Item: Quantor
+Horns: None
+Eyes: Liquid
+ID: 508

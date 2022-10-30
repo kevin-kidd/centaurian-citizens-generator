@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Pink
+ID: 504

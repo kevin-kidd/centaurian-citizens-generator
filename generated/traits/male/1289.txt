@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Rotonic Capacitor
+Horns: Golden
+Eyes: Blue
+ID: 1289

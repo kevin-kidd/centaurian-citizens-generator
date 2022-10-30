@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Stargaze
+Breastcomputer: Opal Process
+Helmet: Galactic Brick
+Face Mask: Plasma
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 448

@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Black
+ID: 1133

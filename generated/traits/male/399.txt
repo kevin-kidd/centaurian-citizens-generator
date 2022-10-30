@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Legion Calc
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 399

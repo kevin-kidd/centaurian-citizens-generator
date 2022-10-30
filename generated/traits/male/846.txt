@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Opal Process
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 846

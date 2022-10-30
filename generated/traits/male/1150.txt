@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Capacic
+Breastcomputer: Emerald Surge
+Helmet: Golden Protector
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 1150

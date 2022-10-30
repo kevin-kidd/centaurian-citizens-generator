@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: Stargaze
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 1416

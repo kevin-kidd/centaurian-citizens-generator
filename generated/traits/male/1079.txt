@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 1079

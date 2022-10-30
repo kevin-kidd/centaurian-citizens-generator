@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Electric
+ID: 1196

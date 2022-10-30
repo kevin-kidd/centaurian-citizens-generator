@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Wrinkled
+Suit: Obsidior
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Black
+ID: 83

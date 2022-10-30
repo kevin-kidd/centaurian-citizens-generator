@@ -1,0 +1,11 @@
+Background: Centauri Pod
+Skin: Plasmic
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 163

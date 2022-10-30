@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Amethyst
+ID: 1145

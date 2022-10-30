@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: Stargaze
+Face Mask: Sapphiric
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Electric
+ID: 881

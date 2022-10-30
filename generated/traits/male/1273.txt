@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Capacic
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1273

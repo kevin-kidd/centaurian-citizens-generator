@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Obsidior
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: Plasmor
+Horns: Bullic
+Eyes: Black
+ID: 581

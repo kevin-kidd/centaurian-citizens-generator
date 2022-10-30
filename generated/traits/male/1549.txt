@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Ethereal
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Black Maven
+Face Mask: None
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 1549

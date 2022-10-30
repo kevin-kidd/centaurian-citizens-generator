@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Emerald
+Suit: Capacic
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Plasma
+ID: 956

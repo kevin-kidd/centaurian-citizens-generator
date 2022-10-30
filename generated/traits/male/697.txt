@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Scales
+Suit: Azulic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 697

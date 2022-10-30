@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Gold Tubed
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Pink
+ID: 1536

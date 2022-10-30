@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Green Gold
+Suit: Tricolor
+Breastcomputer: Gem Quant
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Emerald
+ID: 1544

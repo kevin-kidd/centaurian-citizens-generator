@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 1506

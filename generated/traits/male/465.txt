@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Amethyst
+ID: 465

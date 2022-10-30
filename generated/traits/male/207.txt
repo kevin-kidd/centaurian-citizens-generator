@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Blue Green
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Surge
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 207

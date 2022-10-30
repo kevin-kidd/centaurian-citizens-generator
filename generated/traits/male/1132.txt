@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Blue Green
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: Salmonic
+Face Mask: Vapex
+Gas Tank: Quantic
+Handheld Item: None
+Horns: Quantic
+Eyes: Black
+ID: 1132

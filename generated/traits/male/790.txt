@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Fur
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 790

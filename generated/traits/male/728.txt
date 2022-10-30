@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Rose Purple
+Suit: None
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Emerald
+ID: 728

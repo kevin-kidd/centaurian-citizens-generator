@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: Emeraldic
+Face Mask: Plasma
+Gas Tank: Surge
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 1210

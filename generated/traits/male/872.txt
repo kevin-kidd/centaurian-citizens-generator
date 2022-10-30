@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Plasmic
+Suit: Obsidior
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Black
+ID: 872

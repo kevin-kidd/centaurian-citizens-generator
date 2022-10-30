@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: Amethyst Calc
+Helmet: Golden Protector
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Electric
+ID: 993

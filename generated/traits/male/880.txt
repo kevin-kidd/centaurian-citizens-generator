@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Black
+ID: 880

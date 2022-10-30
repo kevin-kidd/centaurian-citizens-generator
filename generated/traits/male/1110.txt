@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Gray
+Suit: Quantic
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1110

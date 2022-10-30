@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Plasmic
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Blaze
+Handheld Item: Plasmor
+Horns: Sapphire
+Eyes: Liquid
+ID: 539

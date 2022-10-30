@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Green Gold
+Suit: Drapor
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Amethyst
+ID: 700

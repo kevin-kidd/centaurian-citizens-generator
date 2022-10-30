@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Emerald
+Suit: Drapor
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: Sapphire
+Eyes: Black
+ID: 340

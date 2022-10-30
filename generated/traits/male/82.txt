@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Emerald
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: Sapphiric
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Emerald
+ID: 82

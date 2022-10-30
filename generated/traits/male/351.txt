@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Blue Green
+Suit: Azulic
+Breastcomputer: Legion Calc
+Helmet: Wavenic
+Face Mask: Surge
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Blue
+ID: 351

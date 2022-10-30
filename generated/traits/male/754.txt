@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Purple Blue
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Rotonic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 754

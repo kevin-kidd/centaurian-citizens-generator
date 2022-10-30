@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Tricolor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 230

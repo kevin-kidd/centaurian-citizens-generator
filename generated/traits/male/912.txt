@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 912

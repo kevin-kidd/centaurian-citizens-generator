@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Fur
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Plasma
+ID: 267

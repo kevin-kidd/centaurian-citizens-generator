@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Blue
+ID: 156

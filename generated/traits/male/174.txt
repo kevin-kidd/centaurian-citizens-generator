@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: Wavenic
+Face Mask: None
+Gas Tank: Biotic
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Black
+ID: 174

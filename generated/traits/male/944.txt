@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Green Gold
+Suit: Drapor
+Breastcomputer: Emerald Surge
+Helmet: Wavenic
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Bristled
+Eyes: Blue
+ID: 944

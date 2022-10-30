@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Bronze
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Electric
+ID: 1292

@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Bronze
+Suit: Emeraldor
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Black
+ID: 363

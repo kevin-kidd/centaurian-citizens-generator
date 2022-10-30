@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: Quantic
+Eyes: Emerald
+ID: 1021

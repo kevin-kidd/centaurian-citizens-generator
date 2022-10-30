@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Wrinkled
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bullic
+Eyes: Blue
+ID: 1384

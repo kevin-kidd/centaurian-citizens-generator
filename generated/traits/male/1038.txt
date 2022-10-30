@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Plasmic
+Suit: Capacic
+Breastcomputer: Opal Process
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Pink
+ID: 1038

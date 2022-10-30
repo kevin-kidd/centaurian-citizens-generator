@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Azulic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Blue
+ID: 1530

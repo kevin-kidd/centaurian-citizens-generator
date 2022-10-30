@@ -1,0 +1,11 @@
+Background: Centauri City
+Skin: Scales
+Suit: Emeraldor
+Breastcomputer: Opal Process
+Helmet: Emeraldic
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: None
+Horns: None
+Eyes: Pink
+ID: 997

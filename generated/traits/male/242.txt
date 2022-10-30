@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Wrinkled
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: Emeraldic
+Face Mask: None
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Golden
+Eyes: Black
+ID: 242

@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Purple Blue
+Suit: None
+Breastcomputer: Golden Quant
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: None
+Handheld Item: Quantor
+Horns: None
+Eyes: Emerald
+ID: 63

@@ -1,0 +1,11 @@
+Background: Centauri Islands
+Skin: Plasmic
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 95

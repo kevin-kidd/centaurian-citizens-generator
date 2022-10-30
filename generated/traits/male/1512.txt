@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Purple Blue
+Suit: Emeraldor
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Blaze
+Handheld Item: None
+Horns: Actuated
+Eyes: Amethyst
+ID: 1512

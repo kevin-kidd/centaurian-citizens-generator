@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Green
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: None
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Sapphire
+Eyes: Emerald
+ID: 1425

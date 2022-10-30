@@ -1,0 +1,11 @@
+Background: Landing Ships
+Skin: Scales
+Suit: Obsidior
+Breastcomputer: Gem Quant
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: None
+Horns: Sapphire
+Eyes: Liquid
+ID: 1338

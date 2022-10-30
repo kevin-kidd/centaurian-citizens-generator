@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Blue Gray
+Suit: Azulic
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 809

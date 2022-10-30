@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Gray
+Suit: Emeraldor
+Breastcomputer: Gem Quant
+Helmet: Salmonic
+Face Mask: Gold Tubed
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: Sapphire
+Eyes: Blue
+ID: 740

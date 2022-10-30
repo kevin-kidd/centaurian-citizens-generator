@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 1126

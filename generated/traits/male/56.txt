@@ -1,0 +1,11 @@
+Background: Galaxies
+Skin: Scales
+Suit: Azulic
+Breastcomputer: Emerald Surge
+Helmet: Black Maven
+Face Mask: Plasma
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: None
+Eyes: Liquid
+ID: 56

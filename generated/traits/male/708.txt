@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Fur
+Suit: Drapor
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: None
+Gas Tank: Surge
+Handheld Item: Quantor
+Horns: None
+Eyes: Black
+ID: 708

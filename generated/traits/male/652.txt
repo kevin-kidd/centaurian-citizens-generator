@@ -1,0 +1,11 @@
+Background: Centauri Portal
+Skin: Rose Purple
+Suit: Quantic
+Breastcomputer: Gem Quant
+Helmet: None
+Face Mask: Plasma
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Emerald
+ID: 652

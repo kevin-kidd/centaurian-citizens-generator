@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Emerald
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Stargaze
+Face Mask: Surge
+Gas Tank: Plasmic
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 794

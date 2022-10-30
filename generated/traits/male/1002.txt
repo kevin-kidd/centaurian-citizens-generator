@@ -1,0 +1,11 @@
+Background: Stars
+Skin: Green Gold
+Suit: Obsidior
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Bristled
+Eyes: Black
+ID: 1002

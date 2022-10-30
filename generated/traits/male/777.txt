@@ -1,0 +1,11 @@
+Background: Centauri Forest
+Skin: Blue Green
+Suit: Tricolor
+Breastcomputer: None
+Helmet: Wavenic
+Face Mask: Vapex
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Bristled
+Eyes: Black
+ID: 777

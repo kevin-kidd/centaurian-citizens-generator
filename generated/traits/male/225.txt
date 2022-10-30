@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: None
+Breastcomputer: Amethyst Calc
+Helmet: None
+Face Mask: Vapex
+Gas Tank: Surge
+Handheld Item: None
+Horns: None
+Eyes: Blue
+ID: 225

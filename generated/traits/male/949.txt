@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: None
+Breastcomputer: Emerald Surge
+Helmet: None
+Face Mask: None
+Gas Tank: None
+Handheld Item: None
+Horns: Golden
+Eyes: Liquid
+ID: 949

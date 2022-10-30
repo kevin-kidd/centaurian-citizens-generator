@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Quantic
+Breastcomputer: Legion Calc
+Helmet: None
+Face Mask: Surge
+Gas Tank: Surge
+Handheld Item: Rotonic Capacitor
+Horns: None
+Eyes: Emerald
+ID: 474

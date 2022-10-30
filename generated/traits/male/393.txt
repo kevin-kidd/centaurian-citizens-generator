@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Plasmic
+Suit: Quantic
+Breastcomputer: None
+Helmet: Salmonic
+Face Mask: None
+Gas Tank: Alchemy
+Handheld Item: None
+Horns: Actuated
+Eyes: Blue
+ID: 393

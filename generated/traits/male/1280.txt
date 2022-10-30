@@ -1,0 +1,11 @@
+Background: Solar System
+Skin: Gray
+Suit: Stargaze
+Breastcomputer: Emerald Surge
+Helmet: Galactic Brick
+Face Mask: Surge
+Gas Tank: None
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Pink
+ID: 1280

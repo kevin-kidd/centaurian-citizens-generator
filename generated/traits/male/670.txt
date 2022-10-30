@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Gray
+Suit: Azulic
+Breastcomputer: None
+Helmet: None
+Face Mask: Amethystic
+Gas Tank: Alchemy
+Handheld Item: Quantor
+Horns: Sapphire
+Eyes: Blue
+ID: 670

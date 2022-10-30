@@ -1,0 +1,11 @@
+Background: Centauri Village
+Skin: Bronze
+Suit: Emeraldor
+Breastcomputer: None
+Helmet: Cerebron
+Face Mask: Amethystic
+Gas Tank: Biotic
+Handheld Item: None
+Horns: None
+Eyes: Black
+ID: 179
