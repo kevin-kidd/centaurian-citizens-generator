@@ -9,7 +9,8 @@
     "generate-images": "node scripts/generate_images.mjs",
     "add-images-to-metadata": "node --experimental-json-modules scripts/add_images_to_metadata.js",
     "count-skin-types": "node --experimental-json-modules scripts/count_skin_types.js",
-    "run-tests": "node --experimental-json-modules tests/run_tests.js"
+    "run-tests": "node --experimental-json-modules tests/run_tests.js",
+    "lint": "eslint '**/*.js'"
   },
   "author": "@KevinAKidd",
   "license": "ISC",
@@ -17,5 +18,13 @@
     "canvas": "^2.10.2",
     "merge-images": "^2.0.0",
     "node-fetch": "2"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^2.8.0"
   }
 }

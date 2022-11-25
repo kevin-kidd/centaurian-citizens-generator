@@ -1,1 +1,1 @@
-export const genAmount = 1567
+export const genAmount = 1567;
