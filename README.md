@@ -8,3 +8,4 @@ NFT Generator for [Alpha Centaurian Citizens](https://www.stargaze.zone/launchpa
    1. Upload all images to IPFS and replace the CID in `scripts/add_images_to_metadata.js`
    2. Run `yarn add-images-to-metadata`
 5. Count the blue & non-blue skins (for birthing children): `yarn count-skin-types --type [male,female,child]`
+6. Generate rarity data: `yarn generate-rarity-data --type [male,female,cild]`

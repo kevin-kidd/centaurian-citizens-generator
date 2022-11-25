@@ -7,6 +7,7 @@
   "scripts": {
     "generate-metadata": "node --experimental-json-modules scripts/generate_metadata.js",
     "generate-images": "node scripts/generate_images.mjs",
+    "get-rarity-data": "node scripts/get_rarity_data.js",
     "add-images-to-metadata": "node --experimental-json-modules scripts/add_images_to_metadata.js",
     "count-skin-types": "node --experimental-json-modules scripts/count_skin_types.js",
     "run-tests": "node --experimental-json-modules tests/run_tests.js",
