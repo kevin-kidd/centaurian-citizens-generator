@@ -1,7 +1,7 @@
 import fs from "fs";
 
 const testRarity = () => {
-    const characters = ["male"] // More characters coming soon
+    const characters = ["male", "female"] // More characters coming soon
     let success = true
     let responses = []
     for(const character of characters) {
@@ -27,7 +27,7 @@ const testRarity = () => {
 
 
 const testUris = () => {
-    const characters = ["male"] // More characters coming soon
+    const characters = ["male", "female"] // More characters coming soon
     let success = true
     let responses = []
     for(const character of characters) {

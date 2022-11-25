@@ -1,9 +1,8 @@
 import { chooseAsset } from "./chooseAsset.js";
-import male_assets from "./data/male_assets.json";
 
 let dnaSequences = []
 
-export const chooseAssets = (type) => {
+export const chooseAssets = (type, assets) => {
 
     let nft_data = {
         values: [],
@@ -12,23 +11,16 @@ export const chooseAssets = (type) => {
         dna_sequence: []
     }
 
-    if(type === "male") {
-        const categories = male_assets.categories
+    const categories = assets.categories
 
-        for(const category of categories) {
-            let [chosenAsset, rng] = chooseAsset(male_assets[category]);
-            nft_data.values.push(`${category}: ${chosenAsset.value}\n`)
-            nft_data.asset_traits[category] = chosenAsset.value
-            nft_data.dna_sequence.push(rng)
-            if(chosenAsset.URI.length !== 0) {
-                nft_data.uris.push("./assets/media/" + chosenAsset.URI);
-            }
+    for(const category of categories) {
+        let [chosenAsset, rng] = chooseAsset(assets[category]);
+        nft_data.values.push(`${category}: ${chosenAsset.value}\n`)
+        nft_data.asset_traits[category] = chosenAsset.value
+        nft_data.dna_sequence.push(rng)
+        if(chosenAsset.URI.length !== 0) {
+            nft_data.uris.push("./assets/media/" + chosenAsset.URI);
         }
-
-    } else if(type === "female") {
-        // Coming soon
-    } else {
-        // Coming soon
     }
 
     if(dnaSequences.indexOf(JSON.stringify(nft_data.dna_sequence)) === -1){ // Check if chosen combo of assets exists already
