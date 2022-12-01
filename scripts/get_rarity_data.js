@@ -15,6 +15,7 @@ const getRarityData = (type) => {
     "Handheld Item": {},
     Horns: {},
     Eyes: {},
+    Pet: {}
   };
   // Count all assets
   for (const traits of allTraits) {
